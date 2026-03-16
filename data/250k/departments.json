@@ -1,0 +1,1862 @@
+[
+  {
+    "department_id": 1,
+    "name": "Oddział poczta",
+    "location": "Budynek 3",
+    "phone": "535 766 703"
+  },
+  {
+    "department_id": 2,
+    "name": "Oddział przedsiębiorstwo",
+    "location": "Budynek 2",
+    "phone": "533 739 684"
+  },
+  {
+    "department_id": 3,
+    "name": "Oddział zdrowy",
+    "location": "Budynek 2",
+    "phone": "668 260 218"
+  },
+  {
+    "department_id": 4,
+    "name": "Oddział czekać",
+    "location": "Budynek 1",
+    "phone": "+48 509 855 623"
+  },
+  {
+    "department_id": 5,
+    "name": "Oddział zakończenie",
+    "location": "Budynek 1",
+    "phone": "+48 738 797 543"
+  },
+  {
+    "department_id": 6,
+    "name": "Oddział kiedyś",
+    "location": "Budynek 2",
+    "phone": "+48 503 814 039"
+  },
+  {
+    "department_id": 7,
+    "name": "Oddział egzamin",
+    "location": "Budynek 3",
+    "phone": "+48 538 022 508"
+  },
+  {
+    "department_id": 8,
+    "name": "Oddział właściwość",
+    "location": "Budynek 1",
+    "phone": "693 331 692"
+  },
+  {
+    "department_id": 9,
+    "name": "Oddział zmarły",
+    "location": "Budynek 3",
+    "phone": "+48 508 384 154"
+  },
+  {
+    "department_id": 10,
+    "name": "Oddział bar",
+    "location": "Budynek 2",
+    "phone": "+48 884 286 250"
+  },
+  {
+    "department_id": 11,
+    "name": "Oddział trzydziesty",
+    "location": "Budynek 2",
+    "phone": "+48 665 780 335"
+  },
+  {
+    "department_id": 12,
+    "name": "Oddział gniazdo",
+    "location": "Budynek 2",
+    "phone": "783 299 494"
+  },
+  {
+    "department_id": 13,
+    "name": "Oddział kapelusz",
+    "location": "Budynek 2",
+    "phone": "+48 780 820 587"
+  },
+  {
+    "department_id": 14,
+    "name": "Oddział uderzać",
+    "location": "Budynek 1",
+    "phone": "+48 694 236 871"
+  },
+  {
+    "department_id": 15,
+    "name": "Oddział zaburzenie",
+    "location": "Budynek 2",
+    "phone": "+48 576 534 313"
+  },
+  {
+    "department_id": 16,
+    "name": "Oddział skóra",
+    "location": "Budynek 3",
+    "phone": "+48 661 175 140"
+  },
+  {
+    "department_id": 17,
+    "name": "Oddział płyta",
+    "location": "Budynek 3",
+    "phone": "+48 578 479 158"
+  },
+  {
+    "department_id": 18,
+    "name": "Oddział dziewięćdziesiąt",
+    "location": "Budynek 3",
+    "phone": "+48 738 426 633"
+  },
+  {
+    "department_id": 19,
+    "name": "Oddział 2",
+    "location": "Budynek 3",
+    "phone": "509 355 141"
+  },
+  {
+    "department_id": 20,
+    "name": "Oddział gra",
+    "location": "Budynek 2",
+    "phone": "+48 667 110 970"
+  },
+  {
+    "department_id": 21,
+    "name": "Oddział składnik",
+    "location": "Budynek 3",
+    "phone": "+48 737 616 401"
+  },
+  {
+    "department_id": 22,
+    "name": "Oddział uśmiech",
+    "location": "Budynek 1",
+    "phone": "695 578 667"
+  },
+  {
+    "department_id": 23,
+    "name": "Oddział bronić",
+    "location": "Budynek 1",
+    "phone": "+48 570 394 478"
+  },
+  {
+    "department_id": 24,
+    "name": "Oddział w końcu",
+    "location": "Budynek 2",
+    "phone": "+48 579 197 284"
+  },
+  {
+    "department_id": 25,
+    "name": "Oddział łatwy",
+    "location": "Budynek 1",
+    "phone": "663 281 270"
+  },
+  {
+    "department_id": 26,
+    "name": "Oddział palić",
+    "location": "Budynek 3",
+    "phone": "+48 669 156 195"
+  },
+  {
+    "department_id": 27,
+    "name": "Oddział społeczeństwo",
+    "location": "Budynek 3",
+    "phone": "783 269 206"
+  },
+  {
+    "department_id": 28,
+    "name": "Oddział ?",
+    "location": "Budynek 2",
+    "phone": "+48 603 765 317"
+  },
+  {
+    "department_id": 29,
+    "name": "Oddział mieć",
+    "location": "Budynek 1",
+    "phone": "+48 577 422 028"
+  },
+  {
+    "department_id": 30,
+    "name": "Oddział prawdziwy",
+    "location": "Budynek 1",
+    "phone": "+48 32 967 11 34"
+  },
+  {
+    "department_id": 31,
+    "name": "Oddział wszyscy",
+    "location": "Budynek 1",
+    "phone": "+48 577 818 617"
+  },
+  {
+    "department_id": 32,
+    "name": "Oddział lew",
+    "location": "Budynek 2",
+    "phone": "+48 32 412 46 06"
+  },
+  {
+    "department_id": 33,
+    "name": "Oddział palec",
+    "location": "Budynek 2",
+    "phone": "+48 510 956 120"
+  },
+  {
+    "department_id": 34,
+    "name": "Oddział możliwy",
+    "location": "Budynek 3",
+    "phone": "882 701 344"
+  },
+  {
+    "department_id": 35,
+    "name": "Oddział luty",
+    "location": "Budynek 3",
+    "phone": "+48 510 489 930"
+  },
+  {
+    "department_id": 36,
+    "name": "Oddział żaden",
+    "location": "Budynek 1",
+    "phone": "+48 733 045 411"
+  },
+  {
+    "department_id": 37,
+    "name": "Oddział profesor",
+    "location": "Budynek 2",
+    "phone": "608 678 691"
+  },
+  {
+    "department_id": 38,
+    "name": "Oddział mówić",
+    "location": "Budynek 1",
+    "phone": "+48 791 354 389"
+  },
+  {
+    "department_id": 39,
+    "name": "Oddział motyl",
+    "location": "Budynek 1",
+    "phone": "+48 32 568 14 82"
+  },
+  {
+    "department_id": 40,
+    "name": "Oddział gospodarka",
+    "location": "Budynek 1",
+    "phone": "+48 690 240 675"
+  },
+  {
+    "department_id": 41,
+    "name": "Oddział otwierać",
+    "location": "Budynek 2",
+    "phone": "+48 601 605 463"
+  },
+  {
+    "department_id": 42,
+    "name": "Oddział zmiana",
+    "location": "Budynek 1",
+    "phone": "+48 32 860 22 86"
+  },
+  {
+    "department_id": 43,
+    "name": "Oddział wspaniały",
+    "location": "Budynek 2",
+    "phone": "+48 729 844 173"
+  },
+  {
+    "department_id": 44,
+    "name": "Oddział drugi",
+    "location": "Budynek 3",
+    "phone": "509 630 889"
+  },
+  {
+    "department_id": 45,
+    "name": "Oddział alkoholowy",
+    "location": "Budynek 3",
+    "phone": "+48 516 391 739"
+  },
+  {
+    "department_id": 46,
+    "name": "Oddział partia",
+    "location": "Budynek 3",
+    "phone": "+48 536 754 882"
+  },
+  {
+    "department_id": 47,
+    "name": "Oddział zwycięstwo",
+    "location": "Budynek 1",
+    "phone": "+48 781 865 206"
+  },
+  {
+    "department_id": 48,
+    "name": "Oddział srebro",
+    "location": "Budynek 1",
+    "phone": "+48 510 709 301"
+  },
+  {
+    "department_id": 49,
+    "name": "Oddział żołądek",
+    "location": "Budynek 3",
+    "phone": "518 507 297"
+  },
+  {
+    "department_id": 50,
+    "name": "Oddział przestępstwo",
+    "location": "Budynek 1",
+    "phone": "22 836 02 15"
+  },
+  {
+    "department_id": 51,
+    "name": "Oddział miejscowość",
+    "location": "Budynek 2",
+    "phone": "+48 509 696 062"
+  },
+  {
+    "department_id": 52,
+    "name": "Oddział więc",
+    "location": "Budynek 1",
+    "phone": "+48 791 543 315"
+  },
+  {
+    "department_id": 53,
+    "name": "Oddział znajdować",
+    "location": "Budynek 3",
+    "phone": "663 649 380"
+  },
+  {
+    "department_id": 54,
+    "name": "Oddział papieros",
+    "location": "Budynek 1",
+    "phone": "796 935 360"
+  },
+  {
+    "department_id": 55,
+    "name": "Oddział ośrodek",
+    "location": "Budynek 1",
+    "phone": "532 981 944"
+  },
+  {
+    "department_id": 56,
+    "name": "Oddział drewniany",
+    "location": "Budynek 3",
+    "phone": "+48 578 532 342"
+  },
+  {
+    "department_id": 57,
+    "name": "Oddział szkoła",
+    "location": "Budynek 3",
+    "phone": "22 268 25 60"
+  },
+  {
+    "department_id": 58,
+    "name": "Oddział pogląd",
+    "location": "Budynek 2",
+    "phone": "785 890 603"
+  },
+  {
+    "department_id": 59,
+    "name": "Oddział miejski",
+    "location": "Budynek 1",
+    "phone": "787 027 077"
+  },
+  {
+    "department_id": 60,
+    "name": "Oddział kartka",
+    "location": "Budynek 2",
+    "phone": "+48 603 258 960"
+  },
+  {
+    "department_id": 61,
+    "name": "Oddział obszar",
+    "location": "Budynek 1",
+    "phone": "789 045 648"
+  },
+  {
+    "department_id": 62,
+    "name": "Oddział dziewczynka",
+    "location": "Budynek 2",
+    "phone": "574 684 708"
+  },
+  {
+    "department_id": 63,
+    "name": "Oddział opowiadać",
+    "location": "Budynek 3",
+    "phone": "788 209 679"
+  },
+  {
+    "department_id": 64,
+    "name": "Oddział budynek",
+    "location": "Budynek 2",
+    "phone": "535 981 999"
+  },
+  {
+    "department_id": 65,
+    "name": "Oddział pogoda",
+    "location": "Budynek 2",
+    "phone": "730 876 507"
+  },
+  {
+    "department_id": 66,
+    "name": "Oddział wola",
+    "location": "Budynek 2",
+    "phone": "694 636 063"
+  },
+  {
+    "department_id": 67,
+    "name": "Oddział pojazd",
+    "location": "Budynek 2",
+    "phone": "32 948 08 34"
+  },
+  {
+    "department_id": 68,
+    "name": "Oddział ciepły",
+    "location": "Budynek 3",
+    "phone": "781 463 955"
+  },
+  {
+    "department_id": 69,
+    "name": "Oddział ksiądz",
+    "location": "Budynek 1",
+    "phone": "22 621 97 84"
+  },
+  {
+    "department_id": 70,
+    "name": "Oddział wycieczka",
+    "location": "Budynek 1",
+    "phone": "732 233 875"
+  },
+  {
+    "department_id": 71,
+    "name": "Oddział Kraków",
+    "location": "Budynek 1",
+    "phone": "32 909 87 46"
+  },
+  {
+    "department_id": 72,
+    "name": "Oddział Stany Zjednoczone",
+    "location": "Budynek 2",
+    "phone": "796 453 923"
+  },
+  {
+    "department_id": 73,
+    "name": "Oddział film",
+    "location": "Budynek 3",
+    "phone": "693 546 467"
+  },
+  {
+    "department_id": 74,
+    "name": "Oddział przestrzeń",
+    "location": "Budynek 3",
+    "phone": "787 307 818"
+  },
+  {
+    "department_id": 75,
+    "name": "Oddział przeprowadzać",
+    "location": "Budynek 1",
+    "phone": "22 054 80 61"
+  },
+  {
+    "department_id": 76,
+    "name": "Oddział udział",
+    "location": "Budynek 1",
+    "phone": "+48 608 312 477"
+  },
+  {
+    "department_id": 77,
+    "name": "Oddział a",
+    "location": "Budynek 2",
+    "phone": "+48 517 743 902"
+  },
+  {
+    "department_id": 78,
+    "name": "Oddział równy",
+    "location": "Budynek 2",
+    "phone": "+48 886 259 630"
+  },
+  {
+    "department_id": 79,
+    "name": "Oddział wrogi",
+    "location": "Budynek 2",
+    "phone": "509 747 128"
+  },
+  {
+    "department_id": 80,
+    "name": "Oddział zakładać",
+    "location": "Budynek 3",
+    "phone": "603 887 126"
+  },
+  {
+    "department_id": 81,
+    "name": "Oddział 9",
+    "location": "Budynek 1",
+    "phone": "+48 517 275 699"
+  },
+  {
+    "department_id": 82,
+    "name": "Oddział diabeł",
+    "location": "Budynek 1",
+    "phone": "+48 505 277 261"
+  },
+  {
+    "department_id": 83,
+    "name": "Oddział powolny",
+    "location": "Budynek 2",
+    "phone": "+48 691 195 193"
+  },
+  {
+    "department_id": 84,
+    "name": "Oddział umożliwiać",
+    "location": "Budynek 2",
+    "phone": "32 596 61 64"
+  },
+  {
+    "department_id": 85,
+    "name": "Oddział bogini",
+    "location": "Budynek 2",
+    "phone": "510 560 542"
+  },
+  {
+    "department_id": 86,
+    "name": "Oddział zegar",
+    "location": "Budynek 3",
+    "phone": "519 840 568"
+  },
+  {
+    "department_id": 87,
+    "name": "Oddział wspólnota",
+    "location": "Budynek 2",
+    "phone": "+48 513 499 834"
+  },
+  {
+    "department_id": 88,
+    "name": "Oddział majątek",
+    "location": "Budynek 3",
+    "phone": "+48 32 342 77 80"
+  },
+  {
+    "department_id": 89,
+    "name": "Oddział Bóg",
+    "location": "Budynek 3",
+    "phone": "730 990 597"
+  },
+  {
+    "department_id": 90,
+    "name": "Oddział oddech",
+    "location": "Budynek 3",
+    "phone": "+48 32 675 40 28"
+  },
+  {
+    "department_id": 91,
+    "name": "Oddział trwać",
+    "location": "Budynek 1",
+    "phone": "+48 795 597 029"
+  },
+  {
+    "department_id": 92,
+    "name": "Oddział prawy",
+    "location": "Budynek 1",
+    "phone": "573 739 973"
+  },
+  {
+    "department_id": 93,
+    "name": "Oddział ślub",
+    "location": "Budynek 3",
+    "phone": "+48 609 112 756"
+  },
+  {
+    "department_id": 94,
+    "name": "Oddział kościół",
+    "location": "Budynek 1",
+    "phone": "+48 600 723 418"
+  },
+  {
+    "department_id": 95,
+    "name": "Oddział podróż",
+    "location": "Budynek 3",
+    "phone": "+48 786 455 173"
+  },
+  {
+    "department_id": 96,
+    "name": "Oddział wrzesień",
+    "location": "Budynek 1",
+    "phone": "732 807 935"
+  },
+  {
+    "department_id": 97,
+    "name": "Oddział budzić",
+    "location": "Budynek 2",
+    "phone": "+48 733 213 810"
+  },
+  {
+    "department_id": 98,
+    "name": "Oddział dziś",
+    "location": "Budynek 2",
+    "phone": "721 152 714"
+  },
+  {
+    "department_id": 99,
+    "name": "Oddział sieć",
+    "location": "Budynek 1",
+    "phone": "728 204 954"
+  },
+  {
+    "department_id": 100,
+    "name": "Oddział majuskuła",
+    "location": "Budynek 1",
+    "phone": "500 717 561"
+  },
+  {
+    "department_id": 101,
+    "name": "Oddział dom",
+    "location": "Budynek 3",
+    "phone": "+48 791 969 819"
+  },
+  {
+    "department_id": 102,
+    "name": "Oddział żywność",
+    "location": "Budynek 2",
+    "phone": "502 967 443"
+  },
+  {
+    "department_id": 103,
+    "name": "Oddział ubranie",
+    "location": "Budynek 1",
+    "phone": "600 818 717"
+  },
+  {
+    "department_id": 104,
+    "name": "Oddział natura",
+    "location": "Budynek 3",
+    "phone": "666 027 243"
+  },
+  {
+    "department_id": 105,
+    "name": "Oddział pomoc",
+    "location": "Budynek 2",
+    "phone": "+48 32 948 27 16"
+  },
+  {
+    "department_id": 106,
+    "name": "Oddział turecki",
+    "location": "Budynek 3",
+    "phone": "607 560 779"
+  },
+  {
+    "department_id": 107,
+    "name": "Oddział Belgia",
+    "location": "Budynek 2",
+    "phone": "+48 695 626 233"
+  },
+  {
+    "department_id": 108,
+    "name": "Oddział w.",
+    "location": "Budynek 1",
+    "phone": "604 193 861"
+  },
+  {
+    "department_id": 109,
+    "name": "Oddział rozmiar",
+    "location": "Budynek 3",
+    "phone": "663 903 354"
+  },
+  {
+    "department_id": 110,
+    "name": "Oddział pełny",
+    "location": "Budynek 3",
+    "phone": "+48 668 701 173"
+  },
+  {
+    "department_id": 111,
+    "name": "Oddział herbata",
+    "location": "Budynek 1",
+    "phone": "+48 783 997 571"
+  },
+  {
+    "department_id": 112,
+    "name": "Oddział oko",
+    "location": "Budynek 3",
+    "phone": "516 950 443"
+  },
+  {
+    "department_id": 113,
+    "name": "Oddział sowa",
+    "location": "Budynek 3",
+    "phone": "+48 534 730 597"
+  },
+  {
+    "department_id": 114,
+    "name": "Oddział lewy",
+    "location": "Budynek 1",
+    "phone": "+48 505 430 921"
+  },
+  {
+    "department_id": 115,
+    "name": "Oddział mistrz",
+    "location": "Budynek 1",
+    "phone": "+48 514 187 073"
+  },
+  {
+    "department_id": 116,
+    "name": "Oddział w czasie",
+    "location": "Budynek 3",
+    "phone": "+48 576 755 393"
+  },
+  {
+    "department_id": 117,
+    "name": "Oddział staw",
+    "location": "Budynek 3",
+    "phone": "+48 696 289 434"
+  },
+  {
+    "department_id": 118,
+    "name": "Oddział głos",
+    "location": "Budynek 3",
+    "phone": "+48 661 418 474"
+  },
+  {
+    "department_id": 119,
+    "name": "Oddział mieszkanka",
+    "location": "Budynek 1",
+    "phone": "665 569 405"
+  },
+  {
+    "department_id": 120,
+    "name": "Oddział wreszcie",
+    "location": "Budynek 2",
+    "phone": "691 250 585"
+  },
+  {
+    "department_id": 121,
+    "name": "Oddział teren",
+    "location": "Budynek 2",
+    "phone": "691 163 626"
+  },
+  {
+    "department_id": 122,
+    "name": "Oddział prawie",
+    "location": "Budynek 2",
+    "phone": "720 542 331"
+  },
+  {
+    "department_id": 123,
+    "name": "Oddział dokładnie",
+    "location": "Budynek 2",
+    "phone": "882 188 005"
+  },
+  {
+    "department_id": 124,
+    "name": "Oddział stopa",
+    "location": "Budynek 3",
+    "phone": "+48 32 615 73 70"
+  },
+  {
+    "department_id": 125,
+    "name": "Oddział noc",
+    "location": "Budynek 2",
+    "phone": "+48 889 233 015"
+  },
+  {
+    "department_id": 126,
+    "name": "Oddział się",
+    "location": "Budynek 2",
+    "phone": "+48 889 575 261"
+  },
+  {
+    "department_id": 127,
+    "name": "Oddział grób",
+    "location": "Budynek 2",
+    "phone": "+48 722 147 116"
+  },
+  {
+    "department_id": 128,
+    "name": "Oddział istotny",
+    "location": "Budynek 3",
+    "phone": "+48 697 011 428"
+  },
+  {
+    "department_id": 129,
+    "name": "Oddział niechęć",
+    "location": "Budynek 3",
+    "phone": "+48 783 325 683"
+  },
+  {
+    "department_id": 130,
+    "name": "Oddział rana",
+    "location": "Budynek 1",
+    "phone": "605 984 453"
+  },
+  {
+    "department_id": 131,
+    "name": "Oddział rynek",
+    "location": "Budynek 3",
+    "phone": "788 254 934"
+  },
+  {
+    "department_id": 132,
+    "name": "Oddział stopa",
+    "location": "Budynek 2",
+    "phone": "574 517 260"
+  },
+  {
+    "department_id": 133,
+    "name": "Oddział czuć",
+    "location": "Budynek 1",
+    "phone": "+48 22 160 93 22"
+  },
+  {
+    "department_id": 134,
+    "name": "Oddział władza",
+    "location": "Budynek 2",
+    "phone": "512 393 486"
+  },
+  {
+    "department_id": 135,
+    "name": "Oddział dawny",
+    "location": "Budynek 3",
+    "phone": "+48 720 323 493"
+  },
+  {
+    "department_id": 136,
+    "name": "Oddział rolnik",
+    "location": "Budynek 1",
+    "phone": "726 594 689"
+  },
+  {
+    "department_id": 137,
+    "name": "Oddział znaczny",
+    "location": "Budynek 3",
+    "phone": "+48 730 762 415"
+  },
+  {
+    "department_id": 138,
+    "name": "Oddział metr",
+    "location": "Budynek 2",
+    "phone": "+48 888 694 564"
+  },
+  {
+    "department_id": 139,
+    "name": "Oddział Warszawa",
+    "location": "Budynek 2",
+    "phone": "690 577 409"
+  },
+  {
+    "department_id": 140,
+    "name": "Oddział sztuka",
+    "location": "Budynek 1",
+    "phone": "577 617 970"
+  },
+  {
+    "department_id": 141,
+    "name": "Oddział czarny",
+    "location": "Budynek 1",
+    "phone": "880 654 340"
+  },
+  {
+    "department_id": 142,
+    "name": "Oddział złożyć",
+    "location": "Budynek 2",
+    "phone": "794 168 772"
+  },
+  {
+    "department_id": 143,
+    "name": "Oddział wśród",
+    "location": "Budynek 1",
+    "phone": "698 425 700"
+  },
+  {
+    "department_id": 144,
+    "name": "Oddział piłka nożna",
+    "location": "Budynek 2",
+    "phone": "+48 791 898 871"
+  },
+  {
+    "department_id": 145,
+    "name": "Oddział włosy",
+    "location": "Budynek 2",
+    "phone": "+48 607 930 528"
+  },
+  {
+    "department_id": 146,
+    "name": "Oddział a",
+    "location": "Budynek 1",
+    "phone": "+48 693 722 970"
+  },
+  {
+    "department_id": 147,
+    "name": "Oddział podstawa",
+    "location": "Budynek 2",
+    "phone": "+48 518 175 888"
+  },
+  {
+    "department_id": 148,
+    "name": "Oddział pojedynczy",
+    "location": "Budynek 1",
+    "phone": "+48 792 702 736"
+  },
+  {
+    "department_id": 149,
+    "name": "Oddział wyrok",
+    "location": "Budynek 3",
+    "phone": "+48 698 754 466"
+  },
+  {
+    "department_id": 150,
+    "name": "Oddział jakiś",
+    "location": "Budynek 3",
+    "phone": "+48 500 929 133"
+  },
+  {
+    "department_id": 151,
+    "name": "Oddział rada",
+    "location": "Budynek 3",
+    "phone": "579 372 830"
+  },
+  {
+    "department_id": 152,
+    "name": "Oddział kolega",
+    "location": "Budynek 1",
+    "phone": "+48 577 678 919"
+  },
+  {
+    "department_id": 153,
+    "name": "Oddział plac",
+    "location": "Budynek 2",
+    "phone": "32 239 97 31"
+  },
+  {
+    "department_id": 154,
+    "name": "Oddział bycie",
+    "location": "Budynek 3",
+    "phone": "+48 666 850 251"
+  },
+  {
+    "department_id": 155,
+    "name": "Oddział pióro",
+    "location": "Budynek 1",
+    "phone": "+48 32 066 58 79"
+  },
+  {
+    "department_id": 156,
+    "name": "Oddział polityczny",
+    "location": "Budynek 3",
+    "phone": "736 372 813"
+  },
+  {
+    "department_id": 157,
+    "name": "Oddział czwartek",
+    "location": "Budynek 1",
+    "phone": "+48 538 467 456"
+  },
+  {
+    "department_id": 158,
+    "name": "Oddział przedstawiciel",
+    "location": "Budynek 1",
+    "phone": "884 746 942"
+  },
+  {
+    "department_id": 159,
+    "name": "Oddział uciec",
+    "location": "Budynek 1",
+    "phone": "+48 786 298 063"
+  },
+  {
+    "department_id": 160,
+    "name": "Oddział strach",
+    "location": "Budynek 3",
+    "phone": "+48 785 528 711"
+  },
+  {
+    "department_id": 161,
+    "name": "Oddział ostry",
+    "location": "Budynek 1",
+    "phone": "882 018 689"
+  },
+  {
+    "department_id": 162,
+    "name": "Oddział istotny",
+    "location": "Budynek 1",
+    "phone": "+48 691 271 650"
+  },
+  {
+    "department_id": 163,
+    "name": "Oddział pieśń",
+    "location": "Budynek 3",
+    "phone": "576 597 402"
+  },
+  {
+    "department_id": 164,
+    "name": "Oddział wykonać",
+    "location": "Budynek 2",
+    "phone": "22 066 11 15"
+  },
+  {
+    "department_id": 165,
+    "name": "Oddział szkło",
+    "location": "Budynek 2",
+    "phone": "+48 579 777 544"
+  },
+  {
+    "department_id": 166,
+    "name": "Oddział sztuka",
+    "location": "Budynek 1",
+    "phone": "574 505 557"
+  },
+  {
+    "department_id": 167,
+    "name": "Oddział lew",
+    "location": "Budynek 2",
+    "phone": "792 848 841"
+  },
+  {
+    "department_id": 168,
+    "name": "Oddział biblioteka",
+    "location": "Budynek 3",
+    "phone": "600 425 218"
+  },
+  {
+    "department_id": 169,
+    "name": "Oddział Rosja",
+    "location": "Budynek 3",
+    "phone": "+48 500 683 931"
+  },
+  {
+    "department_id": 170,
+    "name": "Oddział twój",
+    "location": "Budynek 3",
+    "phone": "+48 577 342 841"
+  },
+  {
+    "department_id": 171,
+    "name": "Oddział zakładać",
+    "location": "Budynek 3",
+    "phone": "+48 601 162 271"
+  },
+  {
+    "department_id": 172,
+    "name": "Oddział wada",
+    "location": "Budynek 2",
+    "phone": "608 529 721"
+  },
+  {
+    "department_id": 173,
+    "name": "Oddział wrażenie",
+    "location": "Budynek 1",
+    "phone": "502 579 145"
+  },
+  {
+    "department_id": 174,
+    "name": "Oddział niedziela",
+    "location": "Budynek 2",
+    "phone": "+48 799 354 613"
+  },
+  {
+    "department_id": 175,
+    "name": "Oddział Rzym",
+    "location": "Budynek 3",
+    "phone": "500 428 646"
+  },
+  {
+    "department_id": 176,
+    "name": "Oddział do",
+    "location": "Budynek 3",
+    "phone": "576 861 035"
+  },
+  {
+    "department_id": 177,
+    "name": "Oddział zniszczyć",
+    "location": "Budynek 3",
+    "phone": "+48 693 542 834"
+  },
+  {
+    "department_id": 178,
+    "name": "Oddział teoria",
+    "location": "Budynek 3",
+    "phone": "799 375 900"
+  },
+  {
+    "department_id": 179,
+    "name": "Oddział służyć",
+    "location": "Budynek 1",
+    "phone": "+48 697 085 094"
+  },
+  {
+    "department_id": 180,
+    "name": "Oddział słyszeć",
+    "location": "Budynek 3",
+    "phone": "+48 794 404 367"
+  },
+  {
+    "department_id": 181,
+    "name": "Oddział żywy",
+    "location": "Budynek 1",
+    "phone": "+48 601 952 076"
+  },
+  {
+    "department_id": 182,
+    "name": "Oddział dany",
+    "location": "Budynek 1",
+    "phone": "798 937 089"
+  },
+  {
+    "department_id": 183,
+    "name": "Oddział fragment",
+    "location": "Budynek 2",
+    "phone": "+48 32 727 70 65"
+  },
+  {
+    "department_id": 184,
+    "name": "Oddział Ukraina",
+    "location": "Budynek 3",
+    "phone": "573 942 605"
+  },
+  {
+    "department_id": 185,
+    "name": "Oddział abugida",
+    "location": "Budynek 3",
+    "phone": "+48 532 354 788"
+  },
+  {
+    "department_id": 186,
+    "name": "Oddział Rzym",
+    "location": "Budynek 1",
+    "phone": "570 024 581"
+  },
+  {
+    "department_id": 187,
+    "name": "Oddział dzielnica",
+    "location": "Budynek 3",
+    "phone": "+48 32 552 21 48"
+  },
+  {
+    "department_id": 188,
+    "name": "Oddział słuchać",
+    "location": "Budynek 2",
+    "phone": "885 277 786"
+  },
+  {
+    "department_id": 189,
+    "name": "Oddział złodziej",
+    "location": "Budynek 1",
+    "phone": "511 240 681"
+  },
+  {
+    "department_id": 190,
+    "name": "Oddział szeroki",
+    "location": "Budynek 2",
+    "phone": "+48 739 581 249"
+  },
+  {
+    "department_id": 191,
+    "name": "Oddział pochodzić",
+    "location": "Budynek 1",
+    "phone": "+48 574 372 673"
+  },
+  {
+    "department_id": 192,
+    "name": "Oddział swój",
+    "location": "Budynek 3",
+    "phone": "732 200 361"
+  },
+  {
+    "department_id": 193,
+    "name": "Oddział wysokość",
+    "location": "Budynek 3",
+    "phone": "+48 799 072 980"
+  },
+  {
+    "department_id": 194,
+    "name": "Oddział 70",
+    "location": "Budynek 3",
+    "phone": "787 254 552"
+  },
+  {
+    "department_id": 195,
+    "name": "Oddział śnieg",
+    "location": "Budynek 3",
+    "phone": "692 186 930"
+  },
+  {
+    "department_id": 196,
+    "name": "Oddział mój",
+    "location": "Budynek 3",
+    "phone": "+48 698 827 724"
+  },
+  {
+    "department_id": 197,
+    "name": "Oddział ubogi",
+    "location": "Budynek 2",
+    "phone": "517 454 890"
+  },
+  {
+    "department_id": 198,
+    "name": "Oddział obecny",
+    "location": "Budynek 1",
+    "phone": "22 877 69 06"
+  },
+  {
+    "department_id": 199,
+    "name": "Oddział zgadzać się",
+    "location": "Budynek 3",
+    "phone": "502 727 760"
+  },
+  {
+    "department_id": 200,
+    "name": "Oddział postać",
+    "location": "Budynek 2",
+    "phone": "505 883 298"
+  },
+  {
+    "department_id": 201,
+    "name": "Oddział późno",
+    "location": "Budynek 1",
+    "phone": "696 534 903"
+  },
+  {
+    "department_id": 202,
+    "name": "Oddział na",
+    "location": "Budynek 2",
+    "phone": "502 347 332"
+  },
+  {
+    "department_id": 203,
+    "name": "Oddział rozwój",
+    "location": "Budynek 1",
+    "phone": "+48 728 887 362"
+  },
+  {
+    "department_id": 204,
+    "name": "Oddział owoc",
+    "location": "Budynek 1",
+    "phone": "32 844 24 37"
+  },
+  {
+    "department_id": 205,
+    "name": "Oddział całkiem",
+    "location": "Budynek 1",
+    "phone": "+48 500 788 915"
+  },
+  {
+    "department_id": 206,
+    "name": "Oddział możliwość",
+    "location": "Budynek 2",
+    "phone": "532 804 017"
+  },
+  {
+    "department_id": 207,
+    "name": "Oddział mieć na imię",
+    "location": "Budynek 3",
+    "phone": "+48 532 960 082"
+  },
+  {
+    "department_id": 208,
+    "name": "Oddział piątek",
+    "location": "Budynek 3",
+    "phone": "22 884 98 53"
+  },
+  {
+    "department_id": 209,
+    "name": "Oddział ogromny",
+    "location": "Budynek 3",
+    "phone": "728 615 466"
+  },
+  {
+    "department_id": 210,
+    "name": "Oddział prezent",
+    "location": "Budynek 2",
+    "phone": "726 436 600"
+  },
+  {
+    "department_id": 211,
+    "name": "Oddział utrzymywać",
+    "location": "Budynek 1",
+    "phone": "+48 534 811 849"
+  },
+  {
+    "department_id": 212,
+    "name": "Oddział dostęp",
+    "location": "Budynek 2",
+    "phone": "+48 886 057 132"
+  },
+  {
+    "department_id": 213,
+    "name": "Oddział trawa",
+    "location": "Budynek 2",
+    "phone": "+48 576 814 893"
+  },
+  {
+    "department_id": 214,
+    "name": "Oddział czekolada",
+    "location": "Budynek 1",
+    "phone": "665 738 921"
+  },
+  {
+    "department_id": 215,
+    "name": "Oddział nocny",
+    "location": "Budynek 1",
+    "phone": "+48 510 795 535"
+  },
+  {
+    "department_id": 216,
+    "name": "Oddział warunek",
+    "location": "Budynek 2",
+    "phone": "697 829 185"
+  },
+  {
+    "department_id": 217,
+    "name": "Oddział pojęcie",
+    "location": "Budynek 2",
+    "phone": "798 350 877"
+  },
+  {
+    "department_id": 218,
+    "name": "Oddział przeciwnik",
+    "location": "Budynek 3",
+    "phone": "+48 782 138 473"
+  },
+  {
+    "department_id": 219,
+    "name": "Oddział kilometr",
+    "location": "Budynek 1",
+    "phone": "22 666 50 91"
+  },
+  {
+    "department_id": 220,
+    "name": "Oddział siedem",
+    "location": "Budynek 3",
+    "phone": "+48 32 341 19 47"
+  },
+  {
+    "department_id": 221,
+    "name": "Oddział społeczeństwo",
+    "location": "Budynek 1",
+    "phone": "691 194 607"
+  },
+  {
+    "department_id": 222,
+    "name": "Oddział środa",
+    "location": "Budynek 2",
+    "phone": "+48 531 963 367"
+  },
+  {
+    "department_id": 223,
+    "name": "Oddział chiński",
+    "location": "Budynek 3",
+    "phone": "511 863 666"
+  },
+  {
+    "department_id": 224,
+    "name": "Oddział bogactwo",
+    "location": "Budynek 2",
+    "phone": "+48 32 414 15 92"
+  },
+  {
+    "department_id": 225,
+    "name": "Oddział numer",
+    "location": "Budynek 1",
+    "phone": "538 543 632"
+  },
+  {
+    "department_id": 226,
+    "name": "Oddział złodziej",
+    "location": "Budynek 3",
+    "phone": "889 880 248"
+  },
+  {
+    "department_id": 227,
+    "name": "Oddział model",
+    "location": "Budynek 2",
+    "phone": "509 111 397"
+  },
+  {
+    "department_id": 228,
+    "name": "Oddział styczeń",
+    "location": "Budynek 2",
+    "phone": "+48 786 998 245"
+  },
+  {
+    "department_id": 229,
+    "name": "Oddział kończyć",
+    "location": "Budynek 3",
+    "phone": "+48 783 910 787"
+  },
+  {
+    "department_id": 230,
+    "name": "Oddział wieczór",
+    "location": "Budynek 1",
+    "phone": "+48 573 549 811"
+  },
+  {
+    "department_id": 231,
+    "name": "Oddział narkotyk",
+    "location": "Budynek 1",
+    "phone": "790 862 208"
+  },
+  {
+    "department_id": 232,
+    "name": "Oddział zewnętrzny",
+    "location": "Budynek 1",
+    "phone": "+48 737 951 706"
+  },
+  {
+    "department_id": 233,
+    "name": "Oddział siebie",
+    "location": "Budynek 1",
+    "phone": "+48 22 776 70 16"
+  },
+  {
+    "department_id": 234,
+    "name": "Oddział wypowiedź",
+    "location": "Budynek 2",
+    "phone": "+48 32 154 17 94"
+  },
+  {
+    "department_id": 235,
+    "name": "Oddział uderzyć",
+    "location": "Budynek 3",
+    "phone": "+48 579 159 509"
+  },
+  {
+    "department_id": 236,
+    "name": "Oddział trzeba",
+    "location": "Budynek 3",
+    "phone": "+48 691 017 132"
+  },
+  {
+    "department_id": 237,
+    "name": "Oddział pozbawić",
+    "location": "Budynek 2",
+    "phone": "669 923 929"
+  },
+  {
+    "department_id": 238,
+    "name": "Oddział plac",
+    "location": "Budynek 1",
+    "phone": "737 577 852"
+  },
+  {
+    "department_id": 239,
+    "name": "Oddział zgodny",
+    "location": "Budynek 1",
+    "phone": "+48 575 495 972"
+  },
+  {
+    "department_id": 240,
+    "name": "Oddział ósmy",
+    "location": "Budynek 2",
+    "phone": "512 417 391"
+  },
+  {
+    "department_id": 241,
+    "name": "Oddział gęsty",
+    "location": "Budynek 3",
+    "phone": "538 690 584"
+  },
+  {
+    "department_id": 242,
+    "name": "Oddział liść",
+    "location": "Budynek 2",
+    "phone": "577 986 793"
+  },
+  {
+    "department_id": 243,
+    "name": "Oddział zawierać",
+    "location": "Budynek 2",
+    "phone": "721 011 974"
+  },
+  {
+    "department_id": 244,
+    "name": "Oddział związany",
+    "location": "Budynek 1",
+    "phone": "693 052 242"
+  },
+  {
+    "department_id": 245,
+    "name": "Oddział korzystać",
+    "location": "Budynek 2",
+    "phone": "780 504 480"
+  },
+  {
+    "department_id": 246,
+    "name": "Oddział technika",
+    "location": "Budynek 3",
+    "phone": "+48 608 812 408"
+  },
+  {
+    "department_id": 247,
+    "name": "Oddział nieprzyjemny",
+    "location": "Budynek 3",
+    "phone": "691 795 867"
+  },
+  {
+    "department_id": 248,
+    "name": "Oddział górny",
+    "location": "Budynek 3",
+    "phone": "+48 721 847 323"
+  },
+  {
+    "department_id": 249,
+    "name": "Oddział stać",
+    "location": "Budynek 2",
+    "phone": "886 634 885"
+  },
+  {
+    "department_id": 250,
+    "name": "Oddział bać się",
+    "location": "Budynek 2",
+    "phone": "+48 738 575 485"
+  },
+  {
+    "department_id": 251,
+    "name": "Oddział nazwisko",
+    "location": "Budynek 3",
+    "phone": "+48 732 060 430"
+  },
+  {
+    "department_id": 252,
+    "name": "Oddział przyjść",
+    "location": "Budynek 1",
+    "phone": "+48 603 159 548"
+  },
+  {
+    "department_id": 253,
+    "name": "Oddział górny",
+    "location": "Budynek 1",
+    "phone": "+48 690 793 373"
+  },
+  {
+    "department_id": 254,
+    "name": "Oddział bezpieczeństwo",
+    "location": "Budynek 3",
+    "phone": "+48 789 222 392"
+  },
+  {
+    "department_id": 255,
+    "name": "Oddział toponim",
+    "location": "Budynek 2",
+    "phone": "+48 513 165 073"
+  },
+  {
+    "department_id": 256,
+    "name": "Oddział wstyd",
+    "location": "Budynek 3",
+    "phone": "575 028 479"
+  },
+  {
+    "department_id": 257,
+    "name": "Oddział zazwyczaj",
+    "location": "Budynek 3",
+    "phone": "+48 503 262 273"
+  },
+  {
+    "department_id": 258,
+    "name": "Oddział urodziny",
+    "location": "Budynek 2",
+    "phone": "32 341 73 68"
+  },
+  {
+    "department_id": 259,
+    "name": "Oddział Pan",
+    "location": "Budynek 3",
+    "phone": "731 802 743"
+  },
+  {
+    "department_id": 260,
+    "name": "Oddział archipelag",
+    "location": "Budynek 2",
+    "phone": "574 593 933"
+  },
+  {
+    "department_id": 261,
+    "name": "Oddział bogaty",
+    "location": "Budynek 2",
+    "phone": "691 319 863"
+  },
+  {
+    "department_id": 262,
+    "name": "Oddział następny",
+    "location": "Budynek 1",
+    "phone": "798 507 893"
+  },
+  {
+    "department_id": 263,
+    "name": "Oddział mierzyć",
+    "location": "Budynek 1",
+    "phone": "728 392 377"
+  },
+  {
+    "department_id": 264,
+    "name": "Oddział ziemniak",
+    "location": "Budynek 3",
+    "phone": "+48 531 378 873"
+  },
+  {
+    "department_id": 265,
+    "name": "Oddział oś",
+    "location": "Budynek 1",
+    "phone": "516 270 574"
+  },
+  {
+    "department_id": 266,
+    "name": "Oddział odcień",
+    "location": "Budynek 1",
+    "phone": "32 031 17 12"
+  },
+  {
+    "department_id": 267,
+    "name": "Oddział Holandia",
+    "location": "Budynek 2",
+    "phone": "532 115 728"
+  },
+  {
+    "department_id": 268,
+    "name": "Oddział odkryć",
+    "location": "Budynek 1",
+    "phone": "+48 661 069 131"
+  },
+  {
+    "department_id": 269,
+    "name": "Oddział działać",
+    "location": "Budynek 3",
+    "phone": "+48 738 492 568"
+  },
+  {
+    "department_id": 270,
+    "name": "Oddział dziać się",
+    "location": "Budynek 3",
+    "phone": "518 318 868"
+  },
+  {
+    "department_id": 271,
+    "name": "Oddział artystyczny",
+    "location": "Budynek 1",
+    "phone": "+48 505 555 977"
+  },
+  {
+    "department_id": 272,
+    "name": "Oddział urodzić",
+    "location": "Budynek 3",
+    "phone": "+48 690 554 394"
+  },
+  {
+    "department_id": 273,
+    "name": "Oddział model",
+    "location": "Budynek 3",
+    "phone": "+48 781 264 374"
+  },
+  {
+    "department_id": 274,
+    "name": "Oddział katastrofa",
+    "location": "Budynek 1",
+    "phone": "661 298 512"
+  },
+  {
+    "department_id": 275,
+    "name": "Oddział odbywać się",
+    "location": "Budynek 2",
+    "phone": "+48 698 184 771"
+  },
+  {
+    "department_id": 276,
+    "name": "Oddział skutek",
+    "location": "Budynek 1",
+    "phone": "502 050 653"
+  },
+  {
+    "department_id": 277,
+    "name": "Oddział w ciągu",
+    "location": "Budynek 1",
+    "phone": "603 088 979"
+  },
+  {
+    "department_id": 278,
+    "name": "Oddział królestwo",
+    "location": "Budynek 1",
+    "phone": "+48 664 531 676"
+  },
+  {
+    "department_id": 279,
+    "name": "Oddział poruszać",
+    "location": "Budynek 3",
+    "phone": "887 809 291"
+  },
+  {
+    "department_id": 280,
+    "name": "Oddział suchy",
+    "location": "Budynek 1",
+    "phone": "+48 538 724 519"
+  },
+  {
+    "department_id": 281,
+    "name": "Oddział słowo",
+    "location": "Budynek 1",
+    "phone": "720 130 261"
+  },
+  {
+    "department_id": 282,
+    "name": "Oddział górny",
+    "location": "Budynek 2",
+    "phone": "+48 506 014 781"
+  },
+  {
+    "department_id": 283,
+    "name": "Oddział majątek",
+    "location": "Budynek 3",
+    "phone": "+48 722 127 957"
+  },
+  {
+    "department_id": 284,
+    "name": "Oddział film",
+    "location": "Budynek 3",
+    "phone": "507 574 207"
+  },
+  {
+    "department_id": 285,
+    "name": "Oddział jakby",
+    "location": "Budynek 2",
+    "phone": "+48 693 058 910"
+  },
+  {
+    "department_id": 286,
+    "name": "Oddział w formie",
+    "location": "Budynek 1",
+    "phone": "+48 32 981 29 26"
+  },
+  {
+    "department_id": 287,
+    "name": "Oddział środek",
+    "location": "Budynek 2",
+    "phone": "606 515 849"
+  },
+  {
+    "department_id": 288,
+    "name": "Oddział miód",
+    "location": "Budynek 1",
+    "phone": "+48 669 090 018"
+  },
+  {
+    "department_id": 289,
+    "name": "Oddział energia",
+    "location": "Budynek 2",
+    "phone": "+48 32 414 56 37"
+  },
+  {
+    "department_id": 290,
+    "name": "Oddział kolejowy",
+    "location": "Budynek 3",
+    "phone": "32 519 19 47"
+  },
+  {
+    "department_id": 291,
+    "name": "Oddział złożony",
+    "location": "Budynek 2",
+    "phone": "22 290 71 34"
+  },
+  {
+    "department_id": 292,
+    "name": "Oddział zbierać",
+    "location": "Budynek 3",
+    "phone": "+48 730 774 087"
+  },
+  {
+    "department_id": 293,
+    "name": "Oddział temperatura",
+    "location": "Budynek 2",
+    "phone": "+48 881 704 751"
+  },
+  {
+    "department_id": 294,
+    "name": "Oddział babcia",
+    "location": "Budynek 3",
+    "phone": "609 527 674"
+  },
+  {
+    "department_id": 295,
+    "name": "Oddział wszystkie",
+    "location": "Budynek 1",
+    "phone": "+48 793 299 684"
+  },
+  {
+    "department_id": 296,
+    "name": "Oddział niebo",
+    "location": "Budynek 3",
+    "phone": "+48 663 292 299"
+  },
+  {
+    "department_id": 297,
+    "name": "Oddział mapa",
+    "location": "Budynek 1",
+    "phone": "+48 533 024 832"
+  },
+  {
+    "department_id": 298,
+    "name": "Oddział gęś",
+    "location": "Budynek 3",
+    "phone": "785 143 609"
+  },
+  {
+    "department_id": 299,
+    "name": "Oddział martwy",
+    "location": "Budynek 2",
+    "phone": "32 845 10 37"
+  },
+  {
+    "department_id": 300,
+    "name": "Oddział więc",
+    "location": "Budynek 3",
+    "phone": "22 148 81 11"
+  },
+  {
+    "department_id": 301,
+    "name": "Oddział trawa",
+    "location": "Budynek 1",
+    "phone": "697 569 988"
+  },
+  {
+    "department_id": 302,
+    "name": "Oddział 2",
+    "location": "Budynek 2",
+    "phone": "+48 516 188 368"
+  },
+  {
+    "department_id": 303,
+    "name": "Oddział wy",
+    "location": "Budynek 2",
+    "phone": "+48 731 107 208"
+  },
+  {
+    "department_id": 304,
+    "name": "Oddział pisarz",
+    "location": "Budynek 3",
+    "phone": "+48 22 080 57 66"
+  },
+  {
+    "department_id": 305,
+    "name": "Oddział głupota",
+    "location": "Budynek 3",
+    "phone": "+48 539 388 622"
+  },
+  {
+    "department_id": 306,
+    "name": "Oddział pijany",
+    "location": "Budynek 2",
+    "phone": "+48 665 796 824"
+  },
+  {
+    "department_id": 307,
+    "name": "Oddział typowy",
+    "location": "Budynek 2",
+    "phone": "+48 502 601 872"
+  },
+  {
+    "department_id": 308,
+    "name": "Oddział kosztować",
+    "location": "Budynek 2",
+    "phone": "+48 781 466 565"
+  },
+  {
+    "department_id": 309,
+    "name": "Oddział razem",
+    "location": "Budynek 2",
+    "phone": "783 776 926"
+  },
+  {
+    "department_id": 310,
+    "name": "Oddział pies",
+    "location": "Budynek 3",
+    "phone": "501 403 261"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "department_id": 1,
+    "name": "Oddział kształt",
+    "location": "Budynek 2",
+    "phone": "503 774 884"
+  },
+  {
+    "department_id": 2,
+    "name": "Oddział zupełnie",
+    "location": "Budynek 1",
+    "phone": "+48 693 859 135"
+  },
+  {
+    "department_id": 3,
+    "name": "Oddział sportowy",
+    "location": "Budynek 3",
+    "phone": "+48 518 346 158"
+  },
+  {
+    "department_id": 4,
+    "name": "Oddział wszelki",
+    "location": "Budynek 1",
+    "phone": "+48 32 028 25 71"
+  },
+  {
+    "department_id": 5,
+    "name": "Oddział plac",
+    "location": "Budynek 2",
+    "phone": "+48 785 885 414"
+  },
+  {
+    "department_id": 6,
+    "name": "Oddział przyrząd",
+    "location": "Budynek 1",
+    "phone": "793 943 667"
+  },
+  {
+    "department_id": 7,
+    "name": "Oddział psychiczny",
+    "location": "Budynek 3",
+    "phone": "+48 797 813 581"
+  },
+  {
+    "department_id": 8,
+    "name": "Oddział utwór",
+    "location": "Budynek 2",
+    "phone": "+48 605 365 709"
+  },
+  {
+    "department_id": 9,
+    "name": "Oddział Rzym",
+    "location": "Budynek 1",
+    "phone": "+48 782 466 941"
+  },
+  {
+    "department_id": 10,
+    "name": "Oddział produkować",
+    "location": "Budynek 2",
+    "phone": "+48 508 029 531"
+  }
+]
