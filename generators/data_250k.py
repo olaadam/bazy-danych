@@ -2,6 +2,14 @@ import json
 import random
 from faker import Faker
 from datetime import datetime, timedelta
+import os
+
+# ilość rekordów łącznie
+total_records = 250000
+
+# folder docelowy
+data_dir = f"data/{total_records}"
+os.makedirs(data_dir, exist_ok=True)
 
 fake = Faker("pl_PL")
 
@@ -141,7 +149,7 @@ def generate_data():
     }
 
     for name, table in data.items():
-        with open(f"{name}.json","w",encoding="utf-8") as f:
+        with open(os.path.join(data_dir, f"{name}.json"),"w",encoding="utf-8") as f:
             json.dump(table,f,ensure_ascii=False,indent=2)
 
     print("✅ Dane wygenerowane do JSON")
@@ -163,11 +171,17 @@ def load_mysql():
     with open("patients.json") as f:
         patients = json.load(f)
 
-    for p in patients:
-        cur.execute(
-            "INSERT INTO patients VALUES (%s,%s,%s,%s,%s,%s,%s,%s)",
-            tuple(p.values())
-        )
+    # wczytywanie wszystkich plików JSON w folderze
+    for filename in os.listdir(data_dir):
+        if filename.endswith(".json") and filename.startswith("patients"):
+            filepath = os.path.join(data_dir, filename)
+            with open(filepath, "r", encoding="utf-8") as f:
+                patients = json.load(f)
+            for p in patients:
+                cur.execute(
+                    "INSERT INTO patients VALUES (%s,%s,%s,%s,%s,%s,%s,%s)",
+                    tuple(p.values())
+                )
 
     conn.commit()
     cur.close()
@@ -188,14 +202,16 @@ def load_postgres():
     )
     cur = conn.cursor()
 
-    with open("patients.json") as f:
-        patients = json.load(f)
-
-    for p in patients:
-        cur.execute(
-            "INSERT INTO patients VALUES (%s,%s,%s,%s,%s,%s,%s,%s)",
-            tuple(p.values())
-        )
+    for filename in os.listdir(data_dir):
+        if filename.endswith(".json") and filename.startswith("patients"):
+            filepath = os.path.join(data_dir, filename)
+            with open(filepath, "r", encoding="utf-8") as f:
+                patients = json.load(f)
+            for p in patients:
+                cur.execute(
+                    "INSERT INTO patients VALUES (%s,%s,%s,%s,%s,%s,%s,%s)",
+                    tuple(p.values())
+                )
 
     conn.commit()
     cur.close()
@@ -211,10 +227,12 @@ def load_mongo():
     client = MongoClient()
     db = client.medical
 
-    with open("patients.json") as f:
-        patients = json.load(f)
-
-    db.patients.insert_many(patients)
+    for filename in os.listdir(data_dir):
+        if filename.endswith(".json") and filename.startswith("patients"):
+            filepath = os.path.join(data_dir, filename)
+            with open(filepath, "r", encoding="utf-8") as f:
+                patients = json.load(f)
+            db.patients.insert_many(patients)
 
     print("✅ MongoDB OK")
 
@@ -225,19 +243,22 @@ def load_redis():
     import redis
     r = redis.Redis()
 
-    with open("patients.json") as f:
-        patients = json.load(f)
-
-    for p in patients:
-        r.set(f"patient:{p['patient_id']}", json.dumps(p,ensure_ascii=False))
+    for filename in os.listdir(data_dir):
+        if filename.endswith(".json") and filename.startswith("patients"):
+            filepath = os.path.join(data_dir, filename)
+            with open(filepath, "r", encoding="utf-8") as f:
+                patients = json.load(f)
+            for p in patients:
+                r.set(f"patient:{p['patient_id']}", json.dumps(p, ensure_ascii=False))
 
     print("✅ Redis OK")
 
 
 if __name__ == "__main__":
+    data_folder = "data/250000"
     # ręcznie:
     generate_data()
-    # load_mysql()
-    # load_postgres()
-    # load_mongo()
-    # load_redis()
+    # load_mysql(data_dir)
+    # load_postgres(data_dir)
+    # load_mongo(data_dir)
+    # load_redis(data_dir)
