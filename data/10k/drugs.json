@@ -1,0 +1,1602 @@
+[
+  {
+    "drug_id": 1,
+    "name": "oficjalny",
+    "manufacturer": "Tekieli S.A.",
+    "active_ingredients": "minuskuła",
+    "form": "Tabletki",
+    "price": 81.84
+  },
+  {
+    "drug_id": 2,
+    "name": "zakres",
+    "manufacturer": "PPUH Grunt",
+    "active_ingredients": "otoczenie",
+    "form": "Tabletki",
+    "price": 25.02
+  },
+  {
+    "drug_id": 3,
+    "name": "dziesięć",
+    "manufacturer": "Grupa Hyży Sp. z o.o. Sp.k.",
+    "active_ingredients": "wyjść",
+    "form": "Syrop",
+    "price": 25.11
+  },
+  {
+    "drug_id": 4,
+    "name": "uzyskać",
+    "manufacturer": "Spółdzielnia Jonak",
+    "active_ingredients": "użytkownik",
+    "form": "Syrop",
+    "price": 92.09
+  },
+  {
+    "drug_id": 5,
+    "name": "Kościół",
+    "manufacturer": "PPUH Albin",
+    "active_ingredients": "nazwa",
+    "form": "Tabletki",
+    "price": 79.54
+  },
+  {
+    "drug_id": 6,
+    "name": "odpowiedź",
+    "manufacturer": "FPUH Węgrzyniak Sp.j.",
+    "active_ingredients": "tył",
+    "form": "Tabletki",
+    "price": 66.3
+  },
+  {
+    "drug_id": 7,
+    "name": "październik",
+    "manufacturer": "Petryk i syn s.c.",
+    "active_ingredients": "specjalista",
+    "form": "Tabletki",
+    "price": 28.51
+  },
+  {
+    "drug_id": 8,
+    "name": "zrozumieć",
+    "manufacturer": "Grupa Szaruga-Nieścioruk Sp. z o.o. Sp.k.",
+    "active_ingredients": "siedzieć",
+    "form": "Tabletki",
+    "price": 36.51
+  },
+  {
+    "drug_id": 9,
+    "name": "stan",
+    "manufacturer": "Taranek Sp.k.",
+    "active_ingredients": "głupota",
+    "form": "Syrop",
+    "price": 10.47
+  },
+  {
+    "drug_id": 10,
+    "name": "chrześcijaństwo",
+    "manufacturer": "Tlałka-Szulim Sp.k.",
+    "active_ingredients": "diabeł",
+    "form": "Tabletki",
+    "price": 73.83
+  },
+  {
+    "drug_id": 11,
+    "name": "odczuwać",
+    "manufacturer": "Grupa Rohde-Cuch S.A.",
+    "active_ingredients": "jako",
+    "form": "Syrop",
+    "price": 51.32
+  },
+  {
+    "drug_id": 12,
+    "name": "świat",
+    "manufacturer": "Żach Sp. z o.o. Sp.k.",
+    "active_ingredients": "zachowywać się",
+    "form": "Syrop",
+    "price": 71.71
+  },
+  {
+    "drug_id": 13,
+    "name": "żaba",
+    "manufacturer": "Helak Sp. z o.o.",
+    "active_ingredients": "obcy",
+    "form": "Syrop",
+    "price": 19.78
+  },
+  {
+    "drug_id": 14,
+    "name": "łatwo",
+    "manufacturer": "Hulbój-Kostro s.c.",
+    "active_ingredients": "warzywo",
+    "form": "Tabletki",
+    "price": 32.32
+  },
+  {
+    "drug_id": 15,
+    "name": "katastrofa",
+    "manufacturer": "Grupa Gregorek-Dulik Sp. z o.o. Sp.k.",
+    "active_ingredients": "chodzić",
+    "form": "Tabletki",
+    "price": 91.2
+  },
+  {
+    "drug_id": 16,
+    "name": "barwa",
+    "manufacturer": "Stelmasiak-Matacz S.A.",
+    "active_ingredients": "kobiecy",
+    "form": "Tabletki",
+    "price": 92.23
+  },
+  {
+    "drug_id": 17,
+    "name": "zbyt",
+    "manufacturer": "Kuboń Sp.k.",
+    "active_ingredients": "starożytny",
+    "form": "Tabletki",
+    "price": 39.54
+  },
+  {
+    "drug_id": 18,
+    "name": "dawno",
+    "manufacturer": "Spółdzielnia Choroś",
+    "active_ingredients": "szacunek",
+    "form": "Tabletki",
+    "price": 18.38
+  },
+  {
+    "drug_id": 19,
+    "name": "akcja",
+    "manufacturer": "PPUH Radzewicz-Sarniak Sp. z o.o. Sp.k.",
+    "active_ingredients": "błoto",
+    "form": "Syrop",
+    "price": 23.5
+  },
+  {
+    "drug_id": 20,
+    "name": "produkcja",
+    "manufacturer": "Lament Sp.k.",
+    "active_ingredients": "zamiar",
+    "form": "Syrop",
+    "price": 92.09
+  },
+  {
+    "drug_id": 21,
+    "name": "wzrost",
+    "manufacturer": "Stowarzyszenie Piotrowiak",
+    "active_ingredients": "narkotyk",
+    "form": "Syrop",
+    "price": 61.21
+  },
+  {
+    "drug_id": 22,
+    "name": "prowincja",
+    "manufacturer": "Sołtysek i syn s.c.",
+    "active_ingredients": "krzew",
+    "form": "Tabletki",
+    "price": 15.83
+  },
+  {
+    "drug_id": 23,
+    "name": "masło",
+    "manufacturer": "PPUH Imiołczyk",
+    "active_ingredients": "prawo",
+    "form": "Tabletki",
+    "price": 96.46
+  },
+  {
+    "drug_id": 24,
+    "name": "gdyby",
+    "manufacturer": "Dargacz-Hudzik s.c.",
+    "active_ingredients": "posługiwać się",
+    "form": "Syrop",
+    "price": 53.66
+  },
+  {
+    "drug_id": 25,
+    "name": "przejście",
+    "manufacturer": "Bakun Sp.k.",
+    "active_ingredients": "sylaba",
+    "form": "Syrop",
+    "price": 37.11
+  },
+  {
+    "drug_id": 26,
+    "name": "złożony",
+    "manufacturer": "Spółdzielnia Wieczerzak-Bytner Sp. z o.o. Sp.k.",
+    "active_ingredients": "wrażenie",
+    "form": "Tabletki",
+    "price": 40.65
+  },
+  {
+    "drug_id": 27,
+    "name": "wszyscy",
+    "manufacturer": "Gabinety Klatka-Węgrzyk Sp.j.",
+    "active_ingredients": "większość",
+    "form": "Syrop",
+    "price": 47.06
+  },
+  {
+    "drug_id": 28,
+    "name": "wspomnienie",
+    "manufacturer": "Fundacja Doroszkiewicz-Huczko S.A.",
+    "active_ingredients": "woda",
+    "form": "Syrop",
+    "price": 47.5
+  },
+  {
+    "drug_id": 29,
+    "name": "hałas",
+    "manufacturer": "Gabinety Bojarczuk s.c.",
+    "active_ingredients": "tradycja",
+    "form": "Syrop",
+    "price": 57.04
+  },
+  {
+    "drug_id": 30,
+    "name": "usługa",
+    "manufacturer": "Fundacja Palonek S.A.",
+    "active_ingredients": "figura",
+    "form": "Syrop",
+    "price": 17.38
+  },
+  {
+    "drug_id": 31,
+    "name": "świnia",
+    "manufacturer": "Osman Sp.j.",
+    "active_ingredients": "uczucie",
+    "form": "Syrop",
+    "price": 61.58
+  },
+  {
+    "drug_id": 32,
+    "name": "słoń",
+    "manufacturer": "Grupa Karłowicz-Kieca Sp. z o.o.",
+    "active_ingredients": "ziemski",
+    "form": "Tabletki",
+    "price": 62.6
+  },
+  {
+    "drug_id": 33,
+    "name": "ryzyko",
+    "manufacturer": "Gabinety Szafarz-Organiściak i syn s.c.",
+    "active_ingredients": "surowy",
+    "form": "Tabletki",
+    "price": 53.11
+  },
+  {
+    "drug_id": 34,
+    "name": "dlaczego",
+    "manufacturer": "Gabinety Deluga-Supeł Sp. z o.o. Sp.k.",
+    "active_ingredients": "parlament",
+    "form": "Tabletki",
+    "price": 91.08
+  },
+  {
+    "drug_id": 35,
+    "name": "cztery",
+    "manufacturer": "Kryza s.c.",
+    "active_ingredients": "nagle",
+    "form": "Tabletki",
+    "price": 27.06
+  },
+  {
+    "drug_id": 36,
+    "name": "leżeć",
+    "manufacturer": "PPUH Różewicz",
+    "active_ingredients": "swój",
+    "form": "Tabletki",
+    "price": 12.38
+  },
+  {
+    "drug_id": 37,
+    "name": "w czasie",
+    "manufacturer": "Spółdzielnia Michnowicz",
+    "active_ingredients": "iść",
+    "form": "Tabletki",
+    "price": 11.57
+  },
+  {
+    "drug_id": 38,
+    "name": "ale",
+    "manufacturer": "FPUH Iwanow i syn s.c.",
+    "active_ingredients": "kura",
+    "form": "Tabletki",
+    "price": 48.32
+  },
+  {
+    "drug_id": 39,
+    "name": "pozycja",
+    "manufacturer": "Kiełbus Sp.j.",
+    "active_ingredients": "gdy",
+    "form": "Tabletki",
+    "price": 79.6
+  },
+  {
+    "drug_id": 40,
+    "name": "używać",
+    "manufacturer": "Gabinety Pasieczna Sp.j.",
+    "active_ingredients": "Szwajcaria",
+    "form": "Syrop",
+    "price": 77.56
+  },
+  {
+    "drug_id": 41,
+    "name": "dzieło",
+    "manufacturer": "Stowarzyszenie Korkosz-Dybał s.c.",
+    "active_ingredients": "kierować",
+    "form": "Syrop",
+    "price": 91.79
+  },
+  {
+    "drug_id": 42,
+    "name": "fałszywy",
+    "manufacturer": "Fundacja Korta",
+    "active_ingredients": "gardło",
+    "form": "Tabletki",
+    "price": 15.58
+  },
+  {
+    "drug_id": 43,
+    "name": "gwiazdozbiór",
+    "manufacturer": "Kurczak-Wojtasiewicz Sp.k.",
+    "active_ingredients": "konstrukcja",
+    "form": "Syrop",
+    "price": 36.06
+  },
+  {
+    "drug_id": 44,
+    "name": "gdyby",
+    "manufacturer": "FPUH Wyłupek-Hanus Sp.k.",
+    "active_ingredients": "jako",
+    "form": "Syrop",
+    "price": 80.49
+  },
+  {
+    "drug_id": 45,
+    "name": "krzyż",
+    "manufacturer": "Gorgol-Parus i syn s.c.",
+    "active_ingredients": "większość",
+    "form": "Tabletki",
+    "price": 98.27
+  },
+  {
+    "drug_id": 46,
+    "name": "katastrofa",
+    "manufacturer": "Baranowicz Sp. z o.o. Sp.k.",
+    "active_ingredients": "blady",
+    "form": "Tabletki",
+    "price": 26.86
+  },
+  {
+    "drug_id": 47,
+    "name": "długi",
+    "manufacturer": "Jarczyk Sp.k.",
+    "active_ingredients": "głupek",
+    "form": "Tabletki",
+    "price": 31.25
+  },
+  {
+    "drug_id": 48,
+    "name": "organizacja",
+    "manufacturer": "Kurzydło-Nyk S.A.",
+    "active_ingredients": "trudno",
+    "form": "Tabletki",
+    "price": 17.03
+  },
+  {
+    "drug_id": 49,
+    "name": "opisać",
+    "manufacturer": "Gabinety Bondyra s.c.",
+    "active_ingredients": "pierwszy",
+    "form": "Syrop",
+    "price": 18.11
+  },
+  {
+    "drug_id": 50,
+    "name": "powiedzieć",
+    "manufacturer": "Spółdzielnia Pagacz-Mosur Sp.k.",
+    "active_ingredients": "pismo",
+    "form": "Tabletki",
+    "price": 91.66
+  },
+  {
+    "drug_id": 51,
+    "name": "złodziej",
+    "manufacturer": "Gabinety Srokosz S.A.",
+    "active_ingredients": "płaski",
+    "form": "Syrop",
+    "price": 51.5
+  },
+  {
+    "drug_id": 52,
+    "name": "umowa",
+    "manufacturer": "FPUH Mętel-Zybura Sp.k.",
+    "active_ingredients": "mama",
+    "form": "Syrop",
+    "price": 53.65
+  },
+  {
+    "drug_id": 53,
+    "name": "otrzymać",
+    "manufacturer": "Gabinety Domżał",
+    "active_ingredients": "my",
+    "form": "Syrop",
+    "price": 15.64
+  },
+  {
+    "drug_id": 54,
+    "name": "okropny",
+    "manufacturer": "PPUH Jagiełka-Korek i syn s.c.",
+    "active_ingredients": "jeśli",
+    "form": "Tabletki",
+    "price": 70.72
+  },
+  {
+    "drug_id": 55,
+    "name": "kłaść",
+    "manufacturer": "Siudek Sp.j.",
+    "active_ingredients": "kobiecy",
+    "form": "Tabletki",
+    "price": 100.0
+  },
+  {
+    "drug_id": 56,
+    "name": "wciąż",
+    "manufacturer": "Kuba i syn s.c.",
+    "active_ingredients": "obcy",
+    "form": "Tabletki",
+    "price": 37.6
+  },
+  {
+    "drug_id": 57,
+    "name": "tam",
+    "manufacturer": "Grupa Fiołek-Powierża i syn s.c.",
+    "active_ingredients": "od",
+    "form": "Syrop",
+    "price": 38.97
+  },
+  {
+    "drug_id": 58,
+    "name": "5",
+    "manufacturer": "FPUH Mularz",
+    "active_ingredients": "gęś",
+    "form": "Syrop",
+    "price": 82.81
+  },
+  {
+    "drug_id": 59,
+    "name": "obrót",
+    "manufacturer": "Spółdzielnia Lemanowicz i syn s.c.",
+    "active_ingredients": "ból",
+    "form": "Tabletki",
+    "price": 94.96
+  },
+  {
+    "drug_id": 60,
+    "name": "skała",
+    "manufacturer": "PPUH Jasnoch-Gal Sp.k.",
+    "active_ingredients": "polityka",
+    "form": "Tabletki",
+    "price": 81.96
+  },
+  {
+    "drug_id": 61,
+    "name": "albo",
+    "manufacturer": "PPUH Bochnia-Szumna Sp. z o.o.",
+    "active_ingredients": "bank",
+    "form": "Tabletki",
+    "price": 41.39
+  },
+  {
+    "drug_id": 62,
+    "name": "figura",
+    "manufacturer": "FPUH Ćwierz i syn s.c.",
+    "active_ingredients": "obywatel",
+    "form": "Tabletki",
+    "price": 88.21
+  },
+  {
+    "drug_id": 63,
+    "name": "hałas",
+    "manufacturer": "Szczepaniuk-Raźny S.A.",
+    "active_ingredients": "Austria",
+    "form": "Tabletki",
+    "price": 99.11
+  },
+  {
+    "drug_id": 64,
+    "name": "próba",
+    "manufacturer": "Wojtalewicz Sp. z o.o.",
+    "active_ingredients": "strona",
+    "form": "Syrop",
+    "price": 59.34
+  },
+  {
+    "drug_id": 65,
+    "name": "postępowanie",
+    "manufacturer": "Stowarzyszenie Saj i syn s.c.",
+    "active_ingredients": "myśl",
+    "form": "Tabletki",
+    "price": 59.73
+  },
+  {
+    "drug_id": 66,
+    "name": "klimat",
+    "manufacturer": "Dziełak-Szmalec Sp. z o.o.",
+    "active_ingredients": "Ukraina",
+    "form": "Syrop",
+    "price": 32.42
+  },
+  {
+    "drug_id": 67,
+    "name": "jako",
+    "manufacturer": "Maślankiewicz-Olma s.c.",
+    "active_ingredients": "rano",
+    "form": "Tabletki",
+    "price": 21.34
+  },
+  {
+    "drug_id": 68,
+    "name": "pomieszczenie",
+    "manufacturer": "Białk Sp. z o.o.",
+    "active_ingredients": "grudzień",
+    "form": "Syrop",
+    "price": 25.61
+  },
+  {
+    "drug_id": 69,
+    "name": "zdolność",
+    "manufacturer": "FPUH Cal-Mały Sp.j.",
+    "active_ingredients": "Francja",
+    "form": "Syrop",
+    "price": 94.23
+  },
+  {
+    "drug_id": 70,
+    "name": "budowa",
+    "manufacturer": "Roj-Guźniczak Sp. z o.o.",
+    "active_ingredients": "np.",
+    "form": "Tabletki",
+    "price": 11.7
+  },
+  {
+    "drug_id": 71,
+    "name": "sport",
+    "manufacturer": "FPUH Trzop-Czerkies Sp. z o.o.",
+    "active_ingredients": "radiowy",
+    "form": "Syrop",
+    "price": 44.27
+  },
+  {
+    "drug_id": 72,
+    "name": "inaczej",
+    "manufacturer": "PPUH Janoszek-Pastor s.c.",
+    "active_ingredients": "latać",
+    "form": "Tabletki",
+    "price": 77.89
+  },
+  {
+    "drug_id": 73,
+    "name": "bar",
+    "manufacturer": "FPUH Bobrowicz S.A.",
+    "active_ingredients": "skutek",
+    "form": "Tabletki",
+    "price": 28.51
+  },
+  {
+    "drug_id": 74,
+    "name": "utrzymywać",
+    "manufacturer": "Stowarzyszenie Tusk-Siemieniec i syn s.c.",
+    "active_ingredients": "chłopiec",
+    "form": "Syrop",
+    "price": 62.78
+  },
+  {
+    "drug_id": 75,
+    "name": "sztuczny",
+    "manufacturer": "Gabinety Mały-Radzewicz i syn s.c.",
+    "active_ingredients": "wynosić",
+    "form": "Tabletki",
+    "price": 49.0
+  },
+  {
+    "drug_id": 76,
+    "name": "półwysep",
+    "manufacturer": "Gabinety Obiała S.A.",
+    "active_ingredients": "między",
+    "form": "Tabletki",
+    "price": 29.56
+  },
+  {
+    "drug_id": 77,
+    "name": "barwa",
+    "manufacturer": "Kuszyk S.A.",
+    "active_ingredients": "hodować",
+    "form": "Tabletki",
+    "price": 84.41
+  },
+  {
+    "drug_id": 78,
+    "name": "zgadzać się",
+    "manufacturer": "Fundacja Kadela Sp. z o.o. Sp.k.",
+    "active_ingredients": "tradycyjny",
+    "form": "Tabletki",
+    "price": 72.34
+  },
+  {
+    "drug_id": 79,
+    "name": "czas",
+    "manufacturer": "Grupa Pianka",
+    "active_ingredients": "szereg",
+    "form": "Tabletki",
+    "price": 15.75
+  },
+  {
+    "drug_id": 80,
+    "name": "mocz",
+    "manufacturer": "Grupa Szymanik-Kosznik Sp. z o.o. Sp.k.",
+    "active_ingredients": "polityka",
+    "form": "Syrop",
+    "price": 55.5
+  },
+  {
+    "drug_id": 81,
+    "name": "zielony",
+    "manufacturer": "Chatys Sp. z o.o.",
+    "active_ingredients": "partia",
+    "form": "Syrop",
+    "price": 70.47
+  },
+  {
+    "drug_id": 82,
+    "name": "piłka nożna",
+    "manufacturer": "Dąbrowicz-Greszta i syn s.c.",
+    "active_ingredients": "dziecięcy",
+    "form": "Tabletki",
+    "price": 33.63
+  },
+  {
+    "drug_id": 83,
+    "name": "koń",
+    "manufacturer": "Buszta S.A.",
+    "active_ingredients": "powszechny",
+    "form": "Tabletki",
+    "price": 14.82
+  },
+  {
+    "drug_id": 84,
+    "name": "ogólny",
+    "manufacturer": "Sławik i syn s.c.",
+    "active_ingredients": "król",
+    "form": "Syrop",
+    "price": 44.21
+  },
+  {
+    "drug_id": 85,
+    "name": "zostać",
+    "manufacturer": "Gabinety Przybycień",
+    "active_ingredients": "błąd",
+    "form": "Tabletki",
+    "price": 80.8
+  },
+  {
+    "drug_id": 86,
+    "name": "zielony",
+    "manufacturer": "PPUH Puła i syn s.c.",
+    "active_ingredients": "niedźwiedź",
+    "form": "Tabletki",
+    "price": 98.0
+  },
+  {
+    "drug_id": 87,
+    "name": "hałas",
+    "manufacturer": "Gabinety Siciarz-Szarpak Sp.j.",
+    "active_ingredients": "budowla",
+    "form": "Tabletki",
+    "price": 80.95
+  },
+  {
+    "drug_id": 88,
+    "name": "rozmawiać",
+    "manufacturer": "Fundacja Michnowicz-Buszko i syn s.c.",
+    "active_ingredients": "forma",
+    "form": "Syrop",
+    "price": 18.2
+  },
+  {
+    "drug_id": 89,
+    "name": "świątynia",
+    "manufacturer": "Stowarzyszenie Tywoniuk-Walkusz S.A.",
+    "active_ingredients": "model",
+    "form": "Syrop",
+    "price": 96.39
+  },
+  {
+    "drug_id": 90,
+    "name": "raz",
+    "manufacturer": "Małyszka-Duszczak Sp.j.",
+    "active_ingredients": "ryż",
+    "form": "Tabletki",
+    "price": 61.3
+  },
+  {
+    "drug_id": 91,
+    "name": "drobny",
+    "manufacturer": "Fundacja Kasica-Fijak s.c.",
+    "active_ingredients": "klimat",
+    "form": "Tabletki",
+    "price": 11.64
+  },
+  {
+    "drug_id": 92,
+    "name": "administracyjny",
+    "manufacturer": "Grupa Białk s.c.",
+    "active_ingredients": "odcinek",
+    "form": "Syrop",
+    "price": 76.93
+  },
+  {
+    "drug_id": 93,
+    "name": "kosztować",
+    "manufacturer": "Jakoniuk S.A.",
+    "active_ingredients": "mrówka",
+    "form": "Syrop",
+    "price": 53.65
+  },
+  {
+    "drug_id": 94,
+    "name": "herbata",
+    "manufacturer": "Przeklasa-Kosidło i syn s.c.",
+    "active_ingredients": "wykonać",
+    "form": "Tabletki",
+    "price": 67.74
+  },
+  {
+    "drug_id": 95,
+    "name": "krótki",
+    "manufacturer": "PPUH Drela",
+    "active_ingredients": "obejmować",
+    "form": "Syrop",
+    "price": 21.68
+  },
+  {
+    "drug_id": 96,
+    "name": "prawo",
+    "manufacturer": "Stowarzyszenie Smorąg",
+    "active_ingredients": "no",
+    "form": "Syrop",
+    "price": 10.53
+  },
+  {
+    "drug_id": 97,
+    "name": "ząb",
+    "manufacturer": "PPUH Hankiewicz",
+    "active_ingredients": "liczny",
+    "form": "Syrop",
+    "price": 33.56
+  },
+  {
+    "drug_id": 98,
+    "name": "droga",
+    "manufacturer": "Banak-Hajdas Sp. z o.o. Sp.k.",
+    "active_ingredients": "prawie",
+    "form": "Syrop",
+    "price": 22.27
+  },
+  {
+    "drug_id": 99,
+    "name": "gospodarczy",
+    "manufacturer": "PPUH Glica",
+    "active_ingredients": "mur",
+    "form": "Tabletki",
+    "price": 56.57
+  },
+  {
+    "drug_id": 100,
+    "name": "o",
+    "manufacturer": "FPUH Kunka-Moździerz Sp. z o.o. Sp.k.",
+    "active_ingredients": "rana",
+    "form": "Tabletki",
+    "price": 29.53
+  },
+  {
+    "drug_id": 101,
+    "name": "podział",
+    "manufacturer": "Kawula Sp.j.",
+    "active_ingredients": "ciecz",
+    "form": "Tabletki",
+    "price": 59.38
+  },
+  {
+    "drug_id": 102,
+    "name": "kwiecień",
+    "manufacturer": "FPUH Lewicz-Lelito Sp.j.",
+    "active_ingredients": "strona",
+    "form": "Syrop",
+    "price": 62.25
+  },
+  {
+    "drug_id": 103,
+    "name": "mleko",
+    "manufacturer": "Spółdzielnia Hornik Sp.j.",
+    "active_ingredients": "filmowy",
+    "form": "Syrop",
+    "price": 71.4
+  },
+  {
+    "drug_id": 104,
+    "name": "produkować",
+    "manufacturer": "FPUH Łasak Sp.k.",
+    "active_ingredients": "sowa",
+    "form": "Tabletki",
+    "price": 24.92
+  },
+  {
+    "drug_id": 105,
+    "name": "muzyk",
+    "manufacturer": "Iskierka Sp.k.",
+    "active_ingredients": "żaba",
+    "form": "Syrop",
+    "price": 86.28
+  },
+  {
+    "drug_id": 106,
+    "name": "pozbawić",
+    "manufacturer": "PPUH Tondera",
+    "active_ingredients": "minerał",
+    "form": "Tabletki",
+    "price": 12.86
+  },
+  {
+    "drug_id": 107,
+    "name": "skała",
+    "manufacturer": "Stowarzyszenie Jajko-Lica S.A.",
+    "active_ingredients": "ziemniak",
+    "form": "Syrop",
+    "price": 50.27
+  },
+  {
+    "drug_id": 108,
+    "name": "wytwarzać",
+    "manufacturer": "PPUH Rudyk s.c.",
+    "active_ingredients": "śmierć",
+    "form": "Syrop",
+    "price": 54.37
+  },
+  {
+    "drug_id": 109,
+    "name": "wciąż",
+    "manufacturer": "Borejko-Fiołek S.A.",
+    "active_ingredients": "rodzaj",
+    "form": "Syrop",
+    "price": 72.9
+  },
+  {
+    "drug_id": 110,
+    "name": "dodatkowy",
+    "manufacturer": "Fundacja Słupek Sp.j.",
+    "active_ingredients": "bawić się",
+    "form": "Syrop",
+    "price": 42.5
+  },
+  {
+    "drug_id": 111,
+    "name": "prędkość",
+    "manufacturer": "Graboń S.A.",
+    "active_ingredients": "jakiś",
+    "form": "Tabletki",
+    "price": 81.8
+  },
+  {
+    "drug_id": 112,
+    "name": "paliwo",
+    "manufacturer": "Ludwiniak-Drgas Sp.j.",
+    "active_ingredients": "Ukraina",
+    "form": "Syrop",
+    "price": 96.19
+  },
+  {
+    "drug_id": 113,
+    "name": "kura",
+    "manufacturer": "Gabinety Szynkiewicz",
+    "active_ingredients": "osobisty",
+    "form": "Syrop",
+    "price": 46.2
+  },
+  {
+    "drug_id": 114,
+    "name": "obowiązywać",
+    "manufacturer": "FPUH Łupina",
+    "active_ingredients": "zakończyć",
+    "form": "Tabletki",
+    "price": 70.38
+  },
+  {
+    "drug_id": 115,
+    "name": "zaburzenie",
+    "manufacturer": "Fundacja Chorążewicz S.A.",
+    "active_ingredients": "burza",
+    "form": "Syrop",
+    "price": 28.03
+  },
+  {
+    "drug_id": 116,
+    "name": "ubogi",
+    "manufacturer": "Kobak-Fierek i syn s.c.",
+    "active_ingredients": "klimat",
+    "form": "Syrop",
+    "price": 20.32
+  },
+  {
+    "drug_id": 117,
+    "name": "wojenny",
+    "manufacturer": "Spółdzielnia Pera",
+    "active_ingredients": "należeć",
+    "form": "Tabletki",
+    "price": 28.92
+  },
+  {
+    "drug_id": 118,
+    "name": "stanowisko",
+    "manufacturer": "Gabinety Falba i syn s.c.",
+    "active_ingredients": "jadalny",
+    "form": "Syrop",
+    "price": 82.01
+  },
+  {
+    "drug_id": 119,
+    "name": "wada",
+    "manufacturer": "Gabinety Rybus-Darul s.c.",
+    "active_ingredients": "Żyd",
+    "form": "Syrop",
+    "price": 91.23
+  },
+  {
+    "drug_id": 120,
+    "name": "kupić",
+    "manufacturer": "Kiełbowicz-Koziarz i syn s.c.",
+    "active_ingredients": "nauka",
+    "form": "Tabletki",
+    "price": 62.24
+  },
+  {
+    "drug_id": 121,
+    "name": "chronić",
+    "manufacturer": "Wochnik Sp.k.",
+    "active_ingredients": "myśl",
+    "form": "Syrop",
+    "price": 97.34
+  },
+  {
+    "drug_id": 122,
+    "name": "wybuch",
+    "manufacturer": "Grupa Oziębło",
+    "active_ingredients": "koło",
+    "form": "Syrop",
+    "price": 95.77
+  },
+  {
+    "drug_id": 123,
+    "name": "francuski",
+    "manufacturer": "Stowarzyszenie Kurnik Sp.k.",
+    "active_ingredients": "wysiłek",
+    "form": "Tabletki",
+    "price": 17.12
+  },
+  {
+    "drug_id": 124,
+    "name": "twarz",
+    "manufacturer": "Gabinety Bobik",
+    "active_ingredients": "ósmy",
+    "form": "Syrop",
+    "price": 73.83
+  },
+  {
+    "drug_id": 125,
+    "name": "bycie",
+    "manufacturer": "Jażdżyk-Warmuz s.c.",
+    "active_ingredients": "opisać",
+    "form": "Syrop",
+    "price": 22.93
+  },
+  {
+    "drug_id": 126,
+    "name": "doskonały",
+    "manufacturer": "PPUH Pawlaczek-Stachelek Sp.j.",
+    "active_ingredients": "łaciński",
+    "form": "Syrop",
+    "price": 72.64
+  },
+  {
+    "drug_id": 127,
+    "name": "bo",
+    "manufacturer": "Szumny Sp.j.",
+    "active_ingredients": "trawa",
+    "form": "Tabletki",
+    "price": 85.72
+  },
+  {
+    "drug_id": 128,
+    "name": "tkanina",
+    "manufacturer": "Barankiewicz Sp.k.",
+    "active_ingredients": "cierpienie",
+    "form": "Tabletki",
+    "price": 11.55
+  },
+  {
+    "drug_id": 129,
+    "name": "Czechy",
+    "manufacturer": "Korzonek-Łobacz Sp. z o.o.",
+    "active_ingredients": "kolor",
+    "form": "Syrop",
+    "price": 14.78
+  },
+  {
+    "drug_id": 130,
+    "name": "proszę",
+    "manufacturer": "Spółdzielnia Kuciak S.A.",
+    "active_ingredients": "gorączka",
+    "form": "Syrop",
+    "price": 49.8
+  },
+  {
+    "drug_id": 131,
+    "name": "majątek",
+    "manufacturer": "Kolanek-Morek Sp.k.",
+    "active_ingredients": "jabłko",
+    "form": "Syrop",
+    "price": 41.81
+  },
+  {
+    "drug_id": 132,
+    "name": "znosić",
+    "manufacturer": "Nurek S.A.",
+    "active_ingredients": "korzystać",
+    "form": "Syrop",
+    "price": 20.42
+  },
+  {
+    "drug_id": 133,
+    "name": "model",
+    "manufacturer": "Fundacja Kukieła-Wawrzyk S.A.",
+    "active_ingredients": "szósty",
+    "form": "Syrop",
+    "price": 62.59
+  },
+  {
+    "drug_id": 134,
+    "name": "sam",
+    "manufacturer": "Kuchciak-Jeka s.c.",
+    "active_ingredients": "zbiór",
+    "form": "Syrop",
+    "price": 52.26
+  },
+  {
+    "drug_id": 135,
+    "name": "okazja",
+    "manufacturer": "Gabinety Olkowicz Sp.k.",
+    "active_ingredients": "nieszczęście",
+    "form": "Syrop",
+    "price": 11.6
+  },
+  {
+    "drug_id": 136,
+    "name": "aż",
+    "manufacturer": "Stowarzyszenie Herdzik-Dębniak S.A.",
+    "active_ingredients": "dawno",
+    "form": "Tabletki",
+    "price": 35.87
+  },
+  {
+    "drug_id": 137,
+    "name": "wywodzić się",
+    "manufacturer": "Cal Sp. z o.o. Sp.k.",
+    "active_ingredients": "ogół",
+    "form": "Tabletki",
+    "price": 56.25
+  },
+  {
+    "drug_id": 138,
+    "name": "służba",
+    "manufacturer": "Ambrożewicz Sp.j.",
+    "active_ingredients": "położyć",
+    "form": "Tabletki",
+    "price": 96.39
+  },
+  {
+    "drug_id": 139,
+    "name": "niedziela",
+    "manufacturer": "Gabinety Kosiak",
+    "active_ingredients": "8",
+    "form": "Syrop",
+    "price": 15.22
+  },
+  {
+    "drug_id": 140,
+    "name": "położenie",
+    "manufacturer": "Bluszcz-Skalik Sp.k.",
+    "active_ingredients": "mój",
+    "form": "Syrop",
+    "price": 69.97
+  },
+  {
+    "drug_id": 141,
+    "name": "zarówno",
+    "manufacturer": "PPUH Skowyra-Roter i syn s.c.",
+    "active_ingredients": "międzynarodowy",
+    "form": "Syrop",
+    "price": 62.46
+  },
+  {
+    "drug_id": 142,
+    "name": "papieros",
+    "manufacturer": "Plaskota Sp.j.",
+    "active_ingredients": "nikt",
+    "form": "Syrop",
+    "price": 36.88
+  },
+  {
+    "drug_id": 143,
+    "name": "mi",
+    "manufacturer": "Macek-Uryga Sp. z o.o.",
+    "active_ingredients": "niż",
+    "form": "Syrop",
+    "price": 34.3
+  },
+  {
+    "drug_id": 144,
+    "name": "kilometr",
+    "manufacturer": "Stowarzyszenie Ziemann S.A.",
+    "active_ingredients": "serce",
+    "form": "Syrop",
+    "price": 76.68
+  },
+  {
+    "drug_id": 145,
+    "name": "święty",
+    "manufacturer": "Spółdzielnia Mularz-Bartela Sp. z o.o. Sp.k.",
+    "active_ingredients": "dawny",
+    "form": "Syrop",
+    "price": 84.77
+  },
+  {
+    "drug_id": 146,
+    "name": "mocno",
+    "manufacturer": "Machowiak-Pachowicz Sp. z o.o.",
+    "active_ingredients": "niebezpieczeństwo",
+    "form": "Tabletki",
+    "price": 39.89
+  },
+  {
+    "drug_id": 147,
+    "name": "czterdzieści",
+    "manufacturer": "Mroczko s.c.",
+    "active_ingredients": "wybrzeże",
+    "form": "Tabletki",
+    "price": 66.39
+  },
+  {
+    "drug_id": 148,
+    "name": "piec",
+    "manufacturer": "PPUH Budzeń",
+    "active_ingredients": "stolica",
+    "form": "Tabletki",
+    "price": 52.39
+  },
+  {
+    "drug_id": 149,
+    "name": "Szwajcaria",
+    "manufacturer": "FPUH Garczarek",
+    "active_ingredients": "koszt",
+    "form": "Syrop",
+    "price": 64.96
+  },
+  {
+    "drug_id": 150,
+    "name": "piąty",
+    "manufacturer": "Byzdra-Krzysztoszek Sp.k.",
+    "active_ingredients": "władca",
+    "form": "Tabletki",
+    "price": 64.12
+  },
+  {
+    "drug_id": 151,
+    "name": "bezpieczeństwo",
+    "manufacturer": "Helman s.c.",
+    "active_ingredients": "różowy",
+    "form": "Syrop",
+    "price": 21.58
+  },
+  {
+    "drug_id": 152,
+    "name": "narodowy",
+    "manufacturer": "Fundacja Żołądź",
+    "active_ingredients": "opinia",
+    "form": "Tabletki",
+    "price": 44.01
+  },
+  {
+    "drug_id": 153,
+    "name": "ściana",
+    "manufacturer": "Stowarzyszenie Dudziec Sp.k.",
+    "active_ingredients": "oddać",
+    "form": "Syrop",
+    "price": 98.39
+  },
+  {
+    "drug_id": 154,
+    "name": "grecki",
+    "manufacturer": "Spółdzielnia Posłuszny-Truchel Sp. z o.o.",
+    "active_ingredients": "dodatek",
+    "form": "Tabletki",
+    "price": 51.34
+  },
+  {
+    "drug_id": 155,
+    "name": "zainteresowanie",
+    "manufacturer": "Różak Sp. z o.o.",
+    "active_ingredients": "obywatelka",
+    "form": "Syrop",
+    "price": 43.6
+  },
+  {
+    "drug_id": 156,
+    "name": "sukces",
+    "manufacturer": "Sypek Sp.k.",
+    "active_ingredients": "odbywać się",
+    "form": "Tabletki",
+    "price": 90.3
+  },
+  {
+    "drug_id": 157,
+    "name": "kształt",
+    "manufacturer": "FPUH Kapciak-Kaczka i syn s.c.",
+    "active_ingredients": "koza",
+    "form": "Syrop",
+    "price": 64.22
+  },
+  {
+    "drug_id": 158,
+    "name": "pierś",
+    "manufacturer": "Wawryniuk Sp.j.",
+    "active_ingredients": "kolej",
+    "form": "Syrop",
+    "price": 63.94
+  },
+  {
+    "drug_id": 159,
+    "name": "dyrektor",
+    "manufacturer": "FPUH Kopa-Smorąg Sp. z o.o.",
+    "active_ingredients": "telewizja",
+    "form": "Tabletki",
+    "price": 91.53
+  },
+  {
+    "drug_id": 160,
+    "name": "Ukraina",
+    "manufacturer": "Fundacja Stiller i syn s.c.",
+    "active_ingredients": "skala",
+    "form": "Tabletki",
+    "price": 70.02
+  },
+  {
+    "drug_id": 161,
+    "name": "typowy",
+    "manufacturer": "FPUH Danisz i syn s.c.",
+    "active_ingredients": "marka",
+    "form": "Syrop",
+    "price": 23.82
+  },
+  {
+    "drug_id": 162,
+    "name": "dać się",
+    "manufacturer": "Spółdzielnia Łukowicz-Tekiela s.c.",
+    "active_ingredients": "waluta",
+    "form": "Syrop",
+    "price": 16.49
+  },
+  {
+    "drug_id": 163,
+    "name": "ludzki",
+    "manufacturer": "Goss-Frelek Sp. z o.o. Sp.k.",
+    "active_ingredients": "włosy",
+    "form": "Syrop",
+    "price": 30.82
+  },
+  {
+    "drug_id": 164,
+    "name": "wypadek",
+    "manufacturer": "Stowarzyszenie Boba",
+    "active_ingredients": "dłoń",
+    "form": "Syrop",
+    "price": 61.67
+  },
+  {
+    "drug_id": 165,
+    "name": "kierunek",
+    "manufacturer": "Fundacja Kalinka-Brząkała Sp.j.",
+    "active_ingredients": "sytuacja",
+    "form": "Syrop",
+    "price": 66.2
+  },
+  {
+    "drug_id": 166,
+    "name": "przepis",
+    "manufacturer": "PPUH Nałęcz-Bluszcz Sp.k.",
+    "active_ingredients": "minuskuła",
+    "form": "Tabletki",
+    "price": 86.65
+  },
+  {
+    "drug_id": 167,
+    "name": "forma",
+    "manufacturer": "PPUH Boś",
+    "active_ingredients": "ciągnąć",
+    "form": "Syrop",
+    "price": 46.45
+  },
+  {
+    "drug_id": 168,
+    "name": "mapa",
+    "manufacturer": "Spółdzielnia Stypka-Juroszek s.c.",
+    "active_ingredients": "treść",
+    "form": "Tabletki",
+    "price": 30.14
+  },
+  {
+    "drug_id": 169,
+    "name": "górny",
+    "manufacturer": "Krzystek-Zawalich Sp. z o.o.",
+    "active_ingredients": "gniazdo",
+    "form": "Tabletki",
+    "price": 26.88
+  },
+  {
+    "drug_id": 170,
+    "name": "dźwięk",
+    "manufacturer": "Spółdzielnia Panicz Sp.k.",
+    "active_ingredients": "wyglądać",
+    "form": "Syrop",
+    "price": 16.71
+  },
+  {
+    "drug_id": 171,
+    "name": "punkt",
+    "manufacturer": "Olkowicz-Sendor Sp.j.",
+    "active_ingredients": "pogląd",
+    "form": "Syrop",
+    "price": 12.97
+  },
+  {
+    "drug_id": 172,
+    "name": "woda",
+    "manufacturer": "Latuszek-Forma Sp. z o.o.",
+    "active_ingredients": "wspomnienie",
+    "form": "Syrop",
+    "price": 29.02
+  },
+  {
+    "drug_id": 173,
+    "name": "publiczny",
+    "manufacturer": "Stowarzyszenie Wiertel-Gruszczyk S.A.",
+    "active_ingredients": "50",
+    "form": "Tabletki",
+    "price": 18.11
+  },
+  {
+    "drug_id": 174,
+    "name": "Polak",
+    "manufacturer": "FPUH Kubanek",
+    "active_ingredients": "mur",
+    "form": "Syrop",
+    "price": 95.57
+  },
+  {
+    "drug_id": 175,
+    "name": "czekać",
+    "manufacturer": "Zach Sp.k.",
+    "active_ingredients": "but",
+    "form": "Tabletki",
+    "price": 85.83
+  },
+  {
+    "drug_id": 176,
+    "name": "poczta",
+    "manufacturer": "Fundacja Doroba-Brózda S.A.",
+    "active_ingredients": "dwanaście",
+    "form": "Tabletki",
+    "price": 83.83
+  },
+  {
+    "drug_id": 177,
+    "name": "uznawać",
+    "manufacturer": "Powała-Mordak s.c.",
+    "active_ingredients": "trudno",
+    "form": "Tabletki",
+    "price": 52.95
+  },
+  {
+    "drug_id": 178,
+    "name": "nie ma",
+    "manufacturer": "Fundacja Szóstak",
+    "active_ingredients": "mleko",
+    "form": "Tabletki",
+    "price": 14.97
+  },
+  {
+    "drug_id": 179,
+    "name": "przedstawiciel",
+    "manufacturer": "Spółdzielnia Ochał s.c.",
+    "active_ingredients": "poprzedni",
+    "form": "Syrop",
+    "price": 21.04
+  },
+  {
+    "drug_id": 180,
+    "name": "rodzic",
+    "manufacturer": "Gabinety Sydor",
+    "active_ingredients": "Ziemia",
+    "form": "Tabletki",
+    "price": 38.06
+  },
+  {
+    "drug_id": 181,
+    "name": "dokument",
+    "manufacturer": "Zaraś s.c.",
+    "active_ingredients": "Afganistan",
+    "form": "Tabletki",
+    "price": 24.79
+  },
+  {
+    "drug_id": 182,
+    "name": "społeczeństwo",
+    "manufacturer": "Gabinety Sabak-Klaja Sp. z o.o.",
+    "active_ingredients": "działać",
+    "form": "Tabletki",
+    "price": 42.53
+  },
+  {
+    "drug_id": 183,
+    "name": "kilometr",
+    "manufacturer": "Stowarzyszenie Kycia i syn s.c.",
+    "active_ingredients": "nazwisko",
+    "form": "Syrop",
+    "price": 10.48
+  },
+  {
+    "drug_id": 184,
+    "name": "choć",
+    "manufacturer": "Okła i syn s.c.",
+    "active_ingredients": "wysyłać",
+    "form": "Tabletki",
+    "price": 96.8
+  },
+  {
+    "drug_id": 185,
+    "name": "użycie",
+    "manufacturer": "FPUH Ficoń-Gęsiarz Sp. z o.o.",
+    "active_ingredients": "zajmować",
+    "form": "Tabletki",
+    "price": 65.1
+  },
+  {
+    "drug_id": 186,
+    "name": "utwór",
+    "manufacturer": "Stowarzyszenie Kosman-Matus i syn s.c.",
+    "active_ingredients": "postawa",
+    "form": "Syrop",
+    "price": 73.65
+  },
+  {
+    "drug_id": 187,
+    "name": "zaraz",
+    "manufacturer": "Spółdzielnia Słowiak",
+    "active_ingredients": "internetowy",
+    "form": "Syrop",
+    "price": 13.35
+  },
+  {
+    "drug_id": 188,
+    "name": "kraj",
+    "manufacturer": "FPUH Stempniak",
+    "active_ingredients": "jadalny",
+    "form": "Syrop",
+    "price": 92.29
+  },
+  {
+    "drug_id": 189,
+    "name": "rok",
+    "manufacturer": "Grupa Podsiedlik-Matuszyk i syn s.c.",
+    "active_ingredients": "przykład",
+    "form": "Tabletki",
+    "price": 74.76
+  },
+  {
+    "drug_id": 190,
+    "name": "operacja",
+    "manufacturer": "Orszulik Sp. z o.o. Sp.k.",
+    "active_ingredients": "piłka",
+    "form": "Tabletki",
+    "price": 39.53
+  },
+  {
+    "drug_id": 191,
+    "name": "utrzymywać",
+    "manufacturer": "FPUH Chaba",
+    "active_ingredients": "klimat",
+    "form": "Tabletki",
+    "price": 17.5
+  },
+  {
+    "drug_id": 192,
+    "name": "60",
+    "manufacturer": "Stowarzyszenie Bochnia",
+    "active_ingredients": "miesiąc",
+    "form": "Tabletki",
+    "price": 95.86
+  },
+  {
+    "drug_id": 193,
+    "name": "kanał",
+    "manufacturer": "FPUH Smal-Ziniewicz S.A.",
+    "active_ingredients": "rodzaj",
+    "form": "Tabletki",
+    "price": 93.36
+  },
+  {
+    "drug_id": 194,
+    "name": "uchodzić",
+    "manufacturer": "Rzeźniczak S.A.",
+    "active_ingredients": "dodatek",
+    "form": "Tabletki",
+    "price": 10.77
+  },
+  {
+    "drug_id": 195,
+    "name": "płacić",
+    "manufacturer": "Spółdzielnia Zaraś S.A.",
+    "active_ingredients": "słowo",
+    "form": "Tabletki",
+    "price": 99.03
+  },
+  {
+    "drug_id": 196,
+    "name": "dokładny",
+    "manufacturer": "Mosiołek i syn s.c.",
+    "active_ingredients": "wyścig",
+    "form": "Syrop",
+    "price": 82.42
+  },
+  {
+    "drug_id": 197,
+    "name": "tajemnica",
+    "manufacturer": "Fundacja Smyl",
+    "active_ingredients": "niebo",
+    "form": "Syrop",
+    "price": 53.64
+  },
+  {
+    "drug_id": 198,
+    "name": "rozumieć",
+    "manufacturer": "FPUH Miszkurka S.A.",
+    "active_ingredients": "ono",
+    "form": "Syrop",
+    "price": 44.99
+  },
+  {
+    "drug_id": 199,
+    "name": "gaz",
+    "manufacturer": "PPUH Stempel-Aleksiejuk i syn s.c.",
+    "active_ingredients": "wyrok",
+    "form": "Tabletki",
+    "price": 81.3
+  },
+  {
+    "drug_id": 200,
+    "name": "w",
+    "manufacturer": "Domżał-Pleskot Sp.j.",
+    "active_ingredients": "mięso",
+    "form": "Tabletki",
+    "price": 80.48
+  }
+]

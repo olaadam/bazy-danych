@@ -1,0 +1,542 @@
+[
+  {
+    "room_id": 1,
+    "room_number": "149",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 2,
+    "room_number": "123",
+    "type": "Gabinet",
+    "floor": 5
+  },
+  {
+    "room_id": 3,
+    "room_number": "22",
+    "type": "Sala zabiegowa",
+    "floor": 5
+  },
+  {
+    "room_id": 4,
+    "room_number": "94",
+    "type": "Sala zabiegowa",
+    "floor": 4
+  },
+  {
+    "room_id": 5,
+    "room_number": "176",
+    "type": "Gabinet",
+    "floor": 1
+  },
+  {
+    "room_id": 6,
+    "room_number": "122",
+    "type": "Sala zabiegowa",
+    "floor": 2
+  },
+  {
+    "room_id": 7,
+    "room_number": "200",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 8,
+    "room_number": "165",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 9,
+    "room_number": "26",
+    "type": "Sala zabiegowa",
+    "floor": 2
+  },
+  {
+    "room_id": 10,
+    "room_number": "121",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 11,
+    "room_number": "196",
+    "type": "Gabinet",
+    "floor": 3
+  },
+  {
+    "room_id": 12,
+    "room_number": "94",
+    "type": "Gabinet",
+    "floor": 1
+  },
+  {
+    "room_id": 13,
+    "room_number": "52",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 14,
+    "room_number": "168",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 15,
+    "room_number": "189",
+    "type": "Gabinet",
+    "floor": 3
+  },
+  {
+    "room_id": 16,
+    "room_number": "117",
+    "type": "Sala zabiegowa",
+    "floor": 1
+  },
+  {
+    "room_id": 17,
+    "room_number": "73",
+    "type": "Sala zabiegowa",
+    "floor": 2
+  },
+  {
+    "room_id": 18,
+    "room_number": "178",
+    "type": "Sala zabiegowa",
+    "floor": 1
+  },
+  {
+    "room_id": 19,
+    "room_number": "125",
+    "type": "Sala zabiegowa",
+    "floor": 2
+  },
+  {
+    "room_id": 20,
+    "room_number": "148",
+    "type": "Gabinet",
+    "floor": 3
+  },
+  {
+    "room_id": 21,
+    "room_number": "27",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 22,
+    "room_number": "128",
+    "type": "Sala zabiegowa",
+    "floor": 4
+  },
+  {
+    "room_id": 23,
+    "room_number": "109",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 24,
+    "room_number": "193",
+    "type": "Gabinet",
+    "floor": 3
+  },
+  {
+    "room_id": 25,
+    "room_number": "139",
+    "type": "Sala zabiegowa",
+    "floor": 2
+  },
+  {
+    "room_id": 26,
+    "room_number": "43",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 27,
+    "room_number": "32",
+    "type": "Sala zabiegowa",
+    "floor": 4
+  },
+  {
+    "room_id": 28,
+    "room_number": "34",
+    "type": "Gabinet",
+    "floor": 3
+  },
+  {
+    "room_id": 29,
+    "room_number": "23",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 30,
+    "room_number": "46",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 31,
+    "room_number": "93",
+    "type": "Sala zabiegowa",
+    "floor": 1
+  },
+  {
+    "room_id": 32,
+    "room_number": "194",
+    "type": "Sala zabiegowa",
+    "floor": 1
+  },
+  {
+    "room_id": 33,
+    "room_number": "179",
+    "type": "Sala zabiegowa",
+    "floor": 4
+  },
+  {
+    "room_id": 34,
+    "room_number": "162",
+    "type": "Sala zabiegowa",
+    "floor": 1
+  },
+  {
+    "room_id": 35,
+    "room_number": "74",
+    "type": "Gabinet",
+    "floor": 5
+  },
+  {
+    "room_id": 36,
+    "room_number": "160",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 37,
+    "room_number": "86",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 38,
+    "room_number": "164",
+    "type": "Sala zabiegowa",
+    "floor": 4
+  },
+  {
+    "room_id": 39,
+    "room_number": "115",
+    "type": "Sala zabiegowa",
+    "floor": 1
+  },
+  {
+    "room_id": 40,
+    "room_number": "66",
+    "type": "Gabinet",
+    "floor": 5
+  },
+  {
+    "room_id": 41,
+    "room_number": "181",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 42,
+    "room_number": "115",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 43,
+    "room_number": "74",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 44,
+    "room_number": "77",
+    "type": "Gabinet",
+    "floor": 3
+  },
+  {
+    "room_id": 45,
+    "room_number": "153",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 46,
+    "room_number": "37",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 47,
+    "room_number": "140",
+    "type": "Sala zabiegowa",
+    "floor": 4
+  },
+  {
+    "room_id": 48,
+    "room_number": "119",
+    "type": "Gabinet",
+    "floor": 1
+  },
+  {
+    "room_id": 49,
+    "room_number": "149",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 50,
+    "room_number": "99",
+    "type": "Gabinet",
+    "floor": 5
+  },
+  {
+    "room_id": 51,
+    "room_number": "16",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 52,
+    "room_number": "175",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 53,
+    "room_number": "45",
+    "type": "Gabinet",
+    "floor": 5
+  },
+  {
+    "room_id": 54,
+    "room_number": "68",
+    "type": "Sala zabiegowa",
+    "floor": 2
+  },
+  {
+    "room_id": 55,
+    "room_number": "151",
+    "type": "Sala zabiegowa",
+    "floor": 2
+  },
+  {
+    "room_id": 56,
+    "room_number": "191",
+    "type": "Gabinet",
+    "floor": 3
+  },
+  {
+    "room_id": 57,
+    "room_number": "52",
+    "type": "Gabinet",
+    "floor": 1
+  },
+  {
+    "room_id": 58,
+    "room_number": "187",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 59,
+    "room_number": "164",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 60,
+    "room_number": "9",
+    "type": "Sala zabiegowa",
+    "floor": 5
+  },
+  {
+    "room_id": 61,
+    "room_number": "5",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 62,
+    "room_number": "178",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 63,
+    "room_number": "33",
+    "type": "Gabinet",
+    "floor": 5
+  },
+  {
+    "room_id": 64,
+    "room_number": "20",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 65,
+    "room_number": "110",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 66,
+    "room_number": "20",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 67,
+    "room_number": "33",
+    "type": "Gabinet",
+    "floor": 1
+  },
+  {
+    "room_id": 68,
+    "room_number": "179",
+    "type": "Gabinet",
+    "floor": 3
+  },
+  {
+    "room_id": 69,
+    "room_number": "191",
+    "type": "Sala zabiegowa",
+    "floor": 4
+  },
+  {
+    "room_id": 70,
+    "room_number": "25",
+    "type": "Gabinet",
+    "floor": 3
+  },
+  {
+    "room_id": 71,
+    "room_number": "58",
+    "type": "Gabinet",
+    "floor": 1
+  },
+  {
+    "room_id": 72,
+    "room_number": "102",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 73,
+    "room_number": "184",
+    "type": "Sala zabiegowa",
+    "floor": 2
+  },
+  {
+    "room_id": 74,
+    "room_number": "190",
+    "type": "Gabinet",
+    "floor": 5
+  },
+  {
+    "room_id": 75,
+    "room_number": "193",
+    "type": "Sala zabiegowa",
+    "floor": 4
+  },
+  {
+    "room_id": 76,
+    "room_number": "186",
+    "type": "Sala zabiegowa",
+    "floor": 2
+  },
+  {
+    "room_id": 77,
+    "room_number": "43",
+    "type": "Gabinet",
+    "floor": 1
+  },
+  {
+    "room_id": 78,
+    "room_number": "26",
+    "type": "Gabinet",
+    "floor": 3
+  },
+  {
+    "room_id": 79,
+    "room_number": "106",
+    "type": "Sala zabiegowa",
+    "floor": 5
+  },
+  {
+    "room_id": 80,
+    "room_number": "151",
+    "type": "Gabinet",
+    "floor": 2
+  },
+  {
+    "room_id": 81,
+    "room_number": "152",
+    "type": "Sala zabiegowa",
+    "floor": 5
+  },
+  {
+    "room_id": 82,
+    "room_number": "164",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 83,
+    "room_number": "71",
+    "type": "Sala zabiegowa",
+    "floor": 3
+  },
+  {
+    "room_id": 84,
+    "room_number": "144",
+    "type": "Gabinet",
+    "floor": 5
+  },
+  {
+    "room_id": 85,
+    "room_number": "60",
+    "type": "Gabinet",
+    "floor": 4
+  },
+  {
+    "room_id": 86,
+    "room_number": "21",
+    "type": "Sala zabiegowa",
+    "floor": 2
+  },
+  {
+    "room_id": 87,
+    "room_number": "147",
+    "type": "Gabinet",
+    "floor": 1
+  },
+  {
+    "room_id": 88,
+    "room_number": "170",
+    "type": "Sala zabiegowa",
+    "floor": 4
+  },
+  {
+    "room_id": 89,
+    "room_number": "138",
+    "type": "Gabinet",
+    "floor": 1
+  },
+  {
+    "room_id": 90,
+    "room_number": "148",
+    "type": "Sala zabiegowa",
+    "floor": 5
+  }
+]
