@@ -5,6 +5,3 @@ pymongo
 redis
 pandas
 matplotlib
-
-mysql-connector-python
-psycopg2-binary
