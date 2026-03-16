@@ -4,6 +4,4 @@ pymysql
 pymongo
 redis
 pandas
-mysql-connector-python
-psycopg2-binary
 matplotlib
