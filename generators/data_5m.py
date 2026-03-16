@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import os
 
 # ilość rekordów łącznie
-total_records = 10000
+total_records = 5000000
 
 # folder docelowy
 data_dir = f"data/{total_records}"
@@ -14,16 +14,16 @@ os.makedirs(data_dir, exist_ok=True)
 fake = Faker("pl_PL")
 
 # proporcje danych do wygenerowania
-NUM_PATIENTS = 2000
-NUM_DOCTORS = 150
-NUM_DEPARTMENTS = 10
-NUM_ROOMS = 90
-NUM_ADMIN = 100
-NUM_DRUGS = 200
-NUM_VISITS = 2000
-NUM_MEDICAL_RECORDS = 1000
-NUM_PRESCRIPTIONS = 1500
-NUM_DIAGNOSTICS = 950
+NUM_PATIENTS = 1250000
+NUM_DOCTORS = 93750
+NUM_DEPARTMENTS = 6250
+NUM_ROOMS = 56250
+NUM_ADMIN = 62500
+NUM_DRUGS = 125000
+NUM_VISITS = 1250000
+NUM_MEDICAL_RECORDS = 625000
+NUM_PRESCRIPTIONS = 937500
+NUM_DIAGNOSTICS = 593750
 
 
 # generowanie danych do JSON
@@ -255,7 +255,7 @@ def load_redis():
 
 
 if __name__ == "__main__":
-    data_folder = "data/10000"
+    data_folder = "data/5000000"
     # ręcznie:
     generate_data()
     # load_mysql(data_dir)
