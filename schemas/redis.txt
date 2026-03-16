@@ -1,0 +1,73 @@
+# Redis key schema for `medical`
+# The model mirrors MySQL/PostgreSQL entities using HASH + SET + ZSET.
+
+# ----------------------------
+# ID counters
+# ----------------------------
+# INCR medical:seq:patients
+# INCR medical:seq:doctors
+# INCR medical:seq:departments
+# INCR medical:seq:rooms
+# INCR medical:seq:admin_staff
+# INCR medical:seq:drugs
+# INCR medical:seq:visits
+# INCR medical:seq:medical_records
+# INCR medical:seq:prescriptions
+# INCR medical:seq:diagnostics
+
+# ----------------------------
+# Entity records (HASH)
+# ----------------------------
+# medical:patients:{patient_id}
+#   first_name, last_name, pesel, birth_date, address, phone, email
+# medical:doctors:{doctor_id}
+#   first_name, last_name, specialization, license_number, phone, email
+# medical:departments:{department_id}
+#   name, location, phone
+# medical:rooms:{room_id}
+#   room_number, type, floor
+# medical:admin_staff:{staff_id}
+#   first_name, last_name, position, phone
+# medical:drugs:{drug_id}
+#   name, manufacturer, active_ingredients, form, price
+# medical:visits:{visit_id}
+#   patient_id, doctor_id, visit_date, visit_type, status
+# medical:medical_records:{record_id}
+#   patient_id, description, diagnosis, recommendations, created_at
+# medical:prescriptions:{prescription_id}
+#   patient_id, doctor_id, issue_date, status
+# medical:diagnostics:{diagnostic_id}
+#   patient_id, type, result, date
+
+# ----------------------------
+# Secondary indexes
+# ----------------------------
+# Unique patient lookup by PESEL
+# SET medical:idx:patients:pesel:{pesel} {patient_id}
+
+# Global id sets for scans
+# SADD medical:set:patients {patient_id}
+# SADD medical:set:doctors {doctor_id}
+# SADD medical:set:departments {department_id}
+# SADD medical:set:rooms {room_id}
+# SADD medical:set:admin_staff {staff_id}
+# SADD medical:set:drugs {drug_id}
+# SADD medical:set:visits {visit_id}
+# SADD medical:set:medical_records {record_id}
+# SADD medical:set:prescriptions {prescription_id}
+# SADD medical:set:diagnostics {diagnostic_id}
+
+# Relation indexes matching SQL foreign keys
+# SADD medical:idx:visits:patient:{patient_id} {visit_id}
+# SADD medical:idx:visits:doctor:{doctor_id} {visit_id}
+# SADD medical:idx:medical_records:patient:{patient_id} {record_id}
+# SADD medical:idx:prescriptions:patient:{patient_id} {prescription_id}
+# SADD medical:idx:prescriptions:doctor:{doctor_id} {prescription_id}
+# SADD medical:idx:diagnostics:patient:{patient_id} {diagnostic_id}
+
+# Optional timeline indexes (score = unix timestamp)
+# ZADD medical:timeline:visits:patient:{patient_id} {visit_ts} {visit_id}
+# ZADD medical:timeline:visits:doctor:{doctor_id} {visit_ts} {visit_id}
+# ZADD medical:timeline:prescriptions:patient:{patient_id} {issue_ts} {prescription_id}
+# ZADD medical:timeline:diagnostics:patient:{patient_id} {diag_ts} {diagnostic_id}
+
