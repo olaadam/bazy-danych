@@ -1,4 +1,7 @@
 CREATE DATABASE IF NOT EXISTS medical;
+CREATE USER 'root'@'localhost' IDENTIFIED BY 'haslo';
+GRANT ALL PRIVILEGES ON medical.* TO 'root'@'localhost';
+FLUSH PRIVILEGES;
 USE medical;
 
 CREATE TABLE patients (
