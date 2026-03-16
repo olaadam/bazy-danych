@@ -168,20 +168,27 @@ def load_mysql():
     )
     cur = conn.cursor()
 
-    with open("patients.json") as f:
-        patients = json.load(f)
+    tables = [
+        "patients", "doctors", "departments", "rooms", "admin_staff",
+        "drugs", "visits", "medical_records", "prescriptions", "diagnostics"
+    ]
 
-    # wczytywanie wszystkich plików JSON w folderze
-    for filename in os.listdir(data_dir):
-        if filename.endswith(".json") and filename.startswith("patients"):
-            filepath = os.path.join(data_dir, filename)
-            with open(filepath, "r", encoding="utf-8") as f:
-                patients = json.load(f)
-            for p in patients:
-                cur.execute(
-                    "INSERT INTO patients VALUES (%s,%s,%s,%s,%s,%s,%s,%s)",
-                    tuple(p.values())
-                )
+    #najpierw wyczyść
+    for table in tables:
+        cur.execute(f"TRUNCATE TABLE {table};") 
+
+    for table in tables:
+        for filename in os.listdir(data_dir):
+            if filename.endswith(".json") and filename.startswith(table):
+                filepath = os.path.join(data_dir, filename)
+                with open(filepath, "r", encoding="utf-8") as f:
+                    records = json.load(f)
+                for r in records:
+                    # budujemy zapytanie INSERT dynamicznie
+                    cols = ", ".join(r.keys())
+                    vals = ", ".join(["%s"]*len(r))
+                    sql = f"INSERT INTO {table} ({cols}) VALUES ({vals})"
+                    cur.execute(sql, tuple(r.values()))
 
     conn.commit()
     cur.close()
@@ -202,16 +209,27 @@ def load_postgres():
     )
     cur = conn.cursor()
 
-    for filename in os.listdir(data_dir):
-        if filename.endswith(".json") and filename.startswith("patients"):
-            filepath = os.path.join(data_dir, filename)
-            with open(filepath, "r", encoding="utf-8") as f:
-                patients = json.load(f)
-            for p in patients:
-                cur.execute(
-                    "INSERT INTO patients VALUES (%s,%s,%s,%s,%s,%s,%s,%s)",
-                    tuple(p.values())
-                )
+    tables = [
+        "patients", "doctors", "departments", "rooms", "admin_staff",
+        "drugs", "visits", "medical_records", "prescriptions", "diagnostics"
+    ]
+
+    #czyszczenie
+    for table in tables:
+        cur.execute(f"TRUNCATE TABLE {table} RESTART IDENTITY CASCADE;") 
+
+    for table in tables:
+        for filename in os.listdir(data_dir):
+            if filename.endswith(".json") and filename.startswith(table):
+                filepath = os.path.join(data_dir, filename)
+                with open(filepath, "r", encoding="utf-8") as f:
+                    records = json.load(f)
+                for r in records:
+                    # budujemy zapytanie INSERT dynamicznie
+                    cols = ", ".join(r.keys())
+                    vals = ", ".join(["%s"]*len(r))
+                    sql = f"INSERT INTO {table} ({cols}) VALUES ({vals})"
+                    cur.execute(sql, tuple(r.values()))
 
     conn.commit()
     cur.close()
@@ -227,12 +245,21 @@ def load_mongo():
     client = MongoClient()
     db = client.medical
 
+    collections = [
+    "patients", "doctors", "departments", "rooms", "admin_staff",
+    "drugs", "visits", "medical_records", "prescriptions", "diagnostics"
+    ]
+
+    for col in collections:
+        db[col].delete_many({})
+
     for filename in os.listdir(data_dir):
-        if filename.endswith(".json") and filename.startswith("patients"):
+        if filename.endswith(".json"):
+            table = filename.split("_")[0].split(".")[0]  # np. "patients"
             filepath = os.path.join(data_dir, filename)
             with open(filepath, "r", encoding="utf-8") as f:
-                patients = json.load(f)
-            db.patients.insert_many(patients)
+                records = json.load(f)
+            db[table].insert_many(records)
 
     print("✅ MongoDB OK")
 
@@ -243,13 +270,39 @@ def load_redis():
     import redis
     r = redis.Redis()
 
+    key_prefixes = {
+        "patients":"patient",
+        "doctors":"doctor",
+        "departments":"department",
+        "rooms":"room",
+        "admin_staff":"staff",
+        "drugs":"drug",
+        "visits":"visit",
+        "medical_records":"record",
+        "prescriptions":"prescription",
+        "diagnostics":"diagnostic"
+    }
+
+    prefixes = [
+    "patient","doctor","department","room","staff",
+    "drug","visit","record","prescription","diagnostic"
+]
+
+    for prefix in prefixes:
+        for key in r.scan_iter(f"{prefix}:*"):
+            r.delete(key)
+
     for filename in os.listdir(data_dir):
-        if filename.endswith(".json") and filename.startswith("patients"):
+        if filename.endswith(".json"):
+            table = filename.split("_")[0].split(".")[0]
+            prefix = key_prefixes.get(table, table)
             filepath = os.path.join(data_dir, filename)
             with open(filepath, "r", encoding="utf-8") as f:
-                patients = json.load(f)
-            for p in patients:
-                r.set(f"patient:{p['patient_id']}", json.dumps(p, ensure_ascii=False))
+                records = json.load(f)
+            for r in records:
+                r_id = r.get(f"{table[:-1]}_id")  # np. patient_id
+                r_key = f"{prefix}:{r_id}"
+                r.set(r_key, json.dumps(r, ensure_ascii=False))
 
     print("✅ Redis OK")
 
