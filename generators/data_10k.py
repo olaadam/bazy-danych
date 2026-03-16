@@ -156,7 +156,7 @@ def generate_data():
 
 
 # import to mysql
-def load_mysql():
+def load_mysql(data_dir):
 
     import mysql.connector
 
@@ -197,7 +197,7 @@ def load_mysql():
 
 
 # import to postgres
-def load_postgres():
+def load_postgres(data_dir):
 
     import psycopg2
 
@@ -238,7 +238,7 @@ def load_postgres():
 
 
 # import to mongo
-def load_mongo():
+def load_mongo(data_dir):
 
     from pymongo import MongoClient
 
@@ -265,7 +265,7 @@ def load_mongo():
 
 
 # import to redis
-def load_redis():
+def load_redis(data_dir):
 
     import redis
     r = redis.Redis()
@@ -306,12 +306,12 @@ def load_redis():
 
     print("✅ Redis OK")
 
-    
+
 if __name__ == "__main__":
-    data_folder = "data/10000"
+    data_dir = "data/10000"
     # ręcznie:
-    generate_data()
-    # load_mysql(data_dir)
+    #generate_data()
+    load_mysql(data_dir)
     # load_postgres(data_dir)
     # load_mongo(data_dir)
     # load_redis(data_dir)
