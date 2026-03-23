@@ -152,7 +152,7 @@ def generate_data():
         with open(os.path.join(data_dir, f"{name}.json"),"w",encoding="utf-8") as f:
             json.dump(table,f,ensure_ascii=False,indent=2)
 
-    print("✅ Dane wygenerowane do JSON")
+    print("Dane wygenerowane do JSON")
 
 
 # import to mysql
@@ -193,7 +193,7 @@ def load_mysql(data_dir):
     conn.commit()
     cur.close()
     conn.close()
-    print("✅ MySQL OK")
+    print("MySQL OK")
 
 
 # import to postgres
@@ -234,7 +234,7 @@ def load_postgres(data_dir):
     conn.commit()
     cur.close()
     conn.close()
-    print("✅ PostgreSQL OK")
+    print("PostgreSQL OK")
 
 
 # import to mongo
@@ -261,7 +261,7 @@ def load_mongo(data_dir):
                 records = json.load(f)
             db[table].insert_many(records)
 
-    print("✅ MongoDB OK")
+    print("MongoDB OK")
 
 
 # import to redis
@@ -304,7 +304,7 @@ def load_redis(data_dir):
                 r_key = f"{prefix}:{r_id}"
                 r.set(r_key, json.dumps(r, ensure_ascii=False))
 
-    print("✅ Redis OK")
+    print("Redis OK")
 
 
 if __name__ == "__main__":
